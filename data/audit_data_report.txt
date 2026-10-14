@@ -1,0 +1,33 @@
+审计时间: 2026-10-14 18:03 CST
+
+   ai_pick_v4.json            ts=2026-10-14T17:59:10 age=  0.1h
+! ai_picks.json              ts=2026-10-14T17:54:15 age=  0.1h   [空:picks]
+   all_sources.json           ts=                    age=     -
+   anomaly_report.json        ts=2026-10-14T18:03:08 age=  0.0h
+   ban_pick.json              ts=2026-10-14T18:00:27 age=  0.0h
+   ban_prob.json              ts=2026-10-14T18:00:15 age=  0.0h
+   ban_prob_balanced.json     ts=2026-10-14T18:03:03 age=  0.0h
+   decision.json              ts=2026-10-14T18:00:15 age=  0.0h
+   edge_report.json           ts=2026-10-14T18:03:04 age=  0.0h
+   engine_v5.json             ts=2026-10-14T17:59:03 age=  0.1h
+   enrich.json                ts=2026-10-14T17:53:33 age=  0.2h
+   flow_divergence.json       ts=2026-10-14T18:00:34 age=  0.0h
+   global_fx.json             ts=2026-10-14T17:58:15 age=  0.1h
+   hot_impact.json            ts=2026-10-14T17:53:01 age=  0.2h
+[非常规] kline_coverage_history.json: 非dict (list)
+   kline_sim.json             ts=2026-10-14T18:00:34 age=  0.0h
+   market_now.json            ts=2026-10-14T17:53:09 age=  0.2h
+   market_phase.json          ts=2026-10-14T17:58:29 age=     ?
+   multidim.json              ts=2026-10-14T18:00:15 age=  0.0h
+[非常规] multidim_score_history.json: 非dict (list)
+   news_digest.json           ts=2026-10-14T17:58:15 age=  0.1h
+   realtime_minute.json       ts=2026-10-14          age=   18h
+   risk_plan.json             ts=                    age=     -
+   scenario.json              ts=2026-10-14T18:03:04 age=  0.0h
+   self_reflect.json          ts=2026-10-14T18:03:04 age=  0.0h
+   signal_audit.json          ts=2026-10-14T18:03:04 age=  0.0h
+   sources_registry.json      ts=                    age=     -
+   validation_report.json     ts=2026-10-14T18:03:04 age=  0.0h
+
+=== 问题清单 (1) ===
+  [EMPTY] ai_picks.json: picks
