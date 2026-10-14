@@ -1,0 +1,1 @@
+{"ts": "2026-10-15T00:07:37+08:00", "engine": "bulk_collect v1", "kind": "kline", "shard": 1, "n_shards": 3, "n_codes": 582, "stats": {"ok": 582, "empty": 0, "fail": 0, "rows": 1786769, "skipped": 0}, "elapsed_s": 2768.2}
