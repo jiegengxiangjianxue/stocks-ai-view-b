@@ -1,35 +1,34 @@
-审计时间: 2026-10-15 13:31 CST
+审计时间: 2026-10-15 13:34 CST
 
    ai_pick_v4.json            ts=2026-10-14T17:59:10 age=   20h
-! ai_picks.json              ts=2026-10-15T13:05:57 age=  0.4h   [空:picks]
+! ai_picks.json              ts=2026-10-15T13:31:38 age=  0.0h   [空:picks]
    all_sources.json           ts=                    age=     -
-   anomaly_report.json        ts=2026-10-14T18:03:08 age=   19h
+   anomaly_report.json        ts=2026-10-14T18:03:08 age=   20h
    ban_pick.json              ts=2026-10-14T18:00:27 age=   20h
    ban_prob.json              ts=2026-10-14T18:00:15 age=   20h
-   ban_prob_balanced.json     ts=2026-10-14T18:03:03 age=   19h
+   ban_prob_balanced.json     ts=2026-10-14T18:03:03 age=   20h
    bulk_kline_1.json          ts=2026-10-15T02:31:21 age=   11h
    decision.json              ts=2026-10-14T18:00:15 age=   20h
-   edge_report.json           ts=2026-10-14T18:03:04 age=   19h
+   edge_report.json           ts=2026-10-14T18:03:04 age=   20h
    engine_v5.json             ts=2026-10-14T17:59:03 age=   20h
-   enrich.json                ts=2026-10-15T13:05:09 age=  0.4h
+   enrich.json                ts=2026-10-15T13:30:51 age=  0.1h
    flow_divergence.json       ts=2026-10-14T18:00:34 age=   20h
-   global_fx.json             ts=2026-10-15T13:31:05 age=  0.0h
-   hot_impact.json            ts=2026-10-15T13:03:26 age=  0.5h
+   global_fx.json             ts=2026-10-15T13:34:11 age=  0.0h
+   hot_impact.json            ts=2026-10-15T13:29:42 age=  0.1h
    kline_sim.json             ts=2026-10-14T18:00:34 age=   20h
-! market_now.json            ts=2026-10-15T13:04:16 age=  0.4h   [空:limit_up_pool]
+   market_now.json            ts=2026-10-15T13:30:23 age=  0.1h
    market_phase.json          ts=2026-10-14T17:58:29 age=     ?
    multidim.json              ts=2026-10-14T18:00:15 age=   20h
-   news_digest.json           ts=2026-10-15T13:31:05 age=  0.0h
+   news_digest.json           ts=2026-10-15T13:34:11 age=  0.0h
    news_extra.json            ts=2026-10-14T22:46:59 age=   15h
    realtime_minute.json       ts=2026-10-15          age=   14h
    risk_plan.json             ts=                    age=     -
-   scenario.json              ts=2026-10-14T18:03:04 age=   19h
-   self_reflect.json          ts=2026-10-14T18:03:04 age=   19h
+   scenario.json              ts=2026-10-14T18:03:04 age=   20h
+   self_reflect.json          ts=2026-10-14T18:03:04 age=   20h
    shard_b.json               ts=                    age=     -
-   signal_audit.json          ts=2026-10-14T18:03:04 age=   19h
+   signal_audit.json          ts=2026-10-14T18:03:04 age=   20h
    sources_registry.json      ts=                    age=     -
-   validation_report.json     ts=2026-10-14T18:03:08 age=   19h
+   validation_report.json     ts=2026-10-14T18:03:08 age=   20h
 
-=== 问题清单 (2) ===
+=== 问题清单 (1) ===
   [EMPTY] ai_picks.json: picks
-  [EMPTY] market_now.json: limit_up_pool
