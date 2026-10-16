@@ -1,7 +1,7 @@
-审计时间: 2026-10-16 13:22 CST
+审计时间: 2026-10-16 13:27 CST
 
 ! ai_pick_v4.json            ts=2026-10-14T17:59:10 age=   43h 过时(43h)
-! ai_picks.json              ts=2026-10-16T09:48:52 age=    4h   [空:picks]
+! ai_picks.json              ts=2026-10-16T13:22:44 age=  0.1h   [空:picks]
    all_sources.json           ts=                    age=     -
 ! anomaly_report.json        ts=2026-10-14T18:03:08 age=   43h 过时(43h)
 ! ban_pick.json              ts=2026-10-14T18:00:27 age=   43h 过时(43h)
@@ -11,17 +11,17 @@
 ! decision.json              ts=2026-10-14T18:00:15 age=   43h 过时(43h)
 ! edge_report.json           ts=2026-10-14T18:03:04 age=   43h 过时(43h)
 ! engine_v5.json             ts=2026-10-14T17:59:03 age=   43h 过时(43h)
-! enrich.json                ts=2026-10-16T09:47:53 age=    4h   [空:ths_strong]
+   enrich.json                ts=2026-10-16T13:21:36 age=  0.1h
 ! flow_divergence.json       ts=2026-10-14T18:00:34 age=   43h 过时(43h)
-   global_fx.json             ts=2026-10-16T13:22:47 age=  0.0h
+   global_fx.json             ts=2026-10-16T13:27:21 age=  0.0h
    global_markets.json        ts=2026-10-15T18:23:28 age=   19h
-   hot_impact.json            ts=2026-10-16T09:47:23 age=    4h
+   hot_impact.json            ts=2026-10-16T13:21:06 age=  0.1h
 ! kline_sim.json             ts=2026-10-14T18:00:34 age=   43h 过时(43h)
    klineshare_hq.json         ts=2026-10-15T18:23:28 age=   19h
-   market_now.json            ts=2026-10-16T09:47:38 age=    4h
+   market_now.json            ts=2026-10-16T13:21:20 age=  0.1h
    market_phase.json          ts=2026-10-14T17:58:29 age=     ?
 ! multidim.json              ts=2026-10-14T18:00:15 age=   43h 过时(43h)
-   news_digest.json           ts=2026-10-16T13:22:46 age=  0.0h
+   news_digest.json           ts=2026-10-16T13:27:20 age=  0.0h
    news_extra.json            ts=2026-10-15T18:23:25 age=   19h
    realtime_minute.json       ts=2026-10-16          age=   13h
    risk_plan.json             ts=                    age=     -
@@ -32,7 +32,7 @@
    sources_registry.json      ts=                    age=     -
 ! validation_report.json     ts=2026-10-14T18:03:08 age=   43h 过时(43h)
 
-=== 问题清单 (18) ===
+=== 问题清单 (17) ===
   [STALE] ai_pick_v4.json: age=43h
   [EMPTY] ai_picks.json: picks
   [STALE] anomaly_report.json: age=43h
@@ -43,7 +43,6 @@
   [STALE] decision.json: age=43h
   [STALE] edge_report.json: age=43h
   [STALE] engine_v5.json: age=43h
-  [EMPTY] enrich.json: ths_strong
   [STALE] flow_divergence.json: age=43h
   [STALE] kline_sim.json: age=43h
   [STALE] multidim.json: age=43h
