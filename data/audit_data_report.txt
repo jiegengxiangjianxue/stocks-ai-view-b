@@ -1,7 +1,7 @@
-审计时间: 2026-10-20 13:39 CST
+审计时间: 2026-10-20 13:41 CST
 
 ! ai_pick_v4.json            ts=2026-10-14T17:59:10 age=    6d 过时(6d)
-! ai_picks.json              ts=2026-10-20T13:03:17 age=  0.6h   [空:picks]
+! ai_picks.json              ts=2026-10-20T13:39:19 age=  0.0h   [空:picks]
    all_sources.json           ts=                    age=     -
 ! anomaly_report.json        ts=2026-10-14T18:03:08 age=    6d 过时(6d)
 ! ban_pick.json              ts=2026-10-14T18:00:27 age=    6d 过时(6d)
@@ -11,17 +11,17 @@
 ! decision.json              ts=2026-10-14T18:00:15 age=    6d 过时(6d)
 ! edge_report.json           ts=2026-10-14T18:03:04 age=    6d 过时(6d)
 ! engine_v5.json             ts=2026-10-14T17:59:03 age=    6d 过时(6d)
-   enrich.json                ts=2026-10-20T13:02:27 age=  0.6h
+   enrich.json                ts=2026-10-20T13:38:26 age=  0.1h
 ! flow_divergence.json       ts=2026-10-14T18:00:34 age=    6d 过时(6d)
-   global_fx.json             ts=2026-10-20T13:39:50 age=  0.0h
+   global_fx.json             ts=2026-10-20T13:41:42 age=  0.0h
    global_markets.json        ts=2026-10-19T20:56:06 age=   17h
-   hot_impact.json            ts=2026-10-20T13:01:51 age=  0.6h
+   hot_impact.json            ts=2026-10-20T13:37:48 age=  0.1h
 ! kline_sim.json             ts=2026-10-14T18:00:34 age=    6d 过时(6d)
    klineshare_hq.json         ts=2026-10-19T20:56:06 age=   17h
-   market_now.json            ts=2026-10-20T13:02:08 age=  0.6h
+   market_now.json            ts=2026-10-20T13:38:10 age=  0.1h
    market_phase.json          ts=2026-10-14T17:58:29 age=     ?
 ! multidim.json              ts=2026-10-14T18:00:15 age=    6d 过时(6d)
-   news_digest.json           ts=2026-10-20T13:39:50 age=  0.0h
+   news_digest.json           ts=2026-10-20T13:41:41 age=  0.0h
    news_extra.json            ts=2026-10-19T20:56:02 age=   17h
    realtime_minute.json       ts=2026-10-20          age=   14h
    risk_plan.json             ts=                    age=     -
