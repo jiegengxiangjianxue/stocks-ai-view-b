@@ -1,8 +1,8 @@
 {
   "summary": {
-    "ts": "2026-10-22T18:39:43+08:00",
+    "ts": "2026-10-22T18:42:01+08:00",
     "date": "20261022",
-    "elapsed_s": 18.8,
+    "elapsed_s": 34.4,
     "groups": {
       "sector": {
         "raw": 20,
@@ -80,8 +80,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -95,8 +95,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -110,8 +110,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -125,8 +125,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -140,8 +140,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -155,8 +155,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -170,8 +170,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -185,8 +185,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -200,8 +200,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -215,8 +215,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -230,8 +230,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -245,8 +245,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -260,8 +260,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -275,8 +275,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -290,8 +290,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -305,8 +305,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -320,8 +320,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -335,8 +335,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -350,8 +350,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -365,8 +365,8 @@
         "sources": [
           "tencent_mktHs"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       }
     ],
@@ -391,8 +391,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -415,8 +415,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -439,8 +439,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -463,8 +463,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -487,8 +487,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -511,8 +511,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -535,8 +535,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -559,8 +559,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -583,8 +583,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -607,8 +607,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -631,8 +631,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -655,8 +655,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -679,8 +679,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -703,8 +703,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -727,8 +727,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -751,8 +751,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -775,8 +775,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -799,8 +799,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -823,8 +823,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -847,8 +847,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -871,8 +871,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -895,8 +895,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -919,8 +919,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -943,8 +943,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -967,8 +967,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -991,8 +991,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1015,8 +1015,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1039,8 +1039,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1063,8 +1063,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1087,8 +1087,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1111,8 +1111,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1135,8 +1135,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1159,8 +1159,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1183,8 +1183,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1207,8 +1207,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1231,8 +1231,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1255,8 +1255,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1279,8 +1279,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1303,8 +1303,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1327,8 +1327,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1351,8 +1351,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1375,8 +1375,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1399,8 +1399,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1423,8 +1423,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1447,8 +1447,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1471,8 +1471,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1495,8 +1495,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1519,8 +1519,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1543,8 +1543,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1567,8 +1567,8 @@
         "sources": [
           "eastmoney_fund_rank"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1593,8 +1593,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1619,8 +1619,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1645,8 +1645,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1671,8 +1671,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1697,8 +1697,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1723,8 +1723,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1749,8 +1749,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1775,8 +1775,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1801,8 +1801,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1827,8 +1827,8 @@
         "sources": [
           "eastmoney_fund_pingzhong"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       }
     ],
@@ -1843,8 +1843,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1857,8 +1857,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1871,8 +1871,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1885,8 +1885,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1899,8 +1899,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1913,8 +1913,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1927,8 +1927,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1941,8 +1941,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1955,8 +1955,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1969,8 +1969,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1983,8 +1983,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -1997,8 +1997,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2011,8 +2011,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2025,8 +2025,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2039,8 +2039,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2053,8 +2053,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2067,8 +2067,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2081,8 +2081,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2095,8 +2095,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2109,8 +2109,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2123,8 +2123,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2137,8 +2137,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2151,8 +2151,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2165,8 +2165,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2179,8 +2179,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2193,8 +2193,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2207,8 +2207,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2221,8 +2221,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2235,8 +2235,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2249,8 +2249,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2261,8 +2261,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2273,8 +2273,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2285,8 +2285,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2297,8 +2297,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2309,8 +2309,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2321,8 +2321,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2333,8 +2333,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2345,8 +2345,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2357,8 +2357,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2369,8 +2369,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2381,8 +2381,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2393,8 +2393,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2405,8 +2405,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2417,8 +2417,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2429,8 +2429,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2441,8 +2441,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2453,8 +2453,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2465,8 +2465,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2477,8 +2477,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2489,8 +2489,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2501,8 +2501,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2513,8 +2513,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2525,8 +2525,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2537,8 +2537,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2549,8 +2549,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2561,8 +2561,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2573,8 +2573,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2585,8 +2585,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2597,8 +2597,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2609,8 +2609,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2621,8 +2621,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2633,8 +2633,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2645,8 +2645,8 @@
         "sources": [
           "ths_strong_stocks"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2662,8 +2662,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2680,8 +2680,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2697,8 +2697,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2714,8 +2714,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2731,8 +2731,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2748,8 +2748,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2765,8 +2765,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2782,8 +2782,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2799,8 +2799,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2816,8 +2816,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2833,8 +2833,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2850,8 +2850,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2867,8 +2867,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2884,8 +2884,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2901,8 +2901,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2918,8 +2918,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2935,8 +2935,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2952,8 +2952,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2969,8 +2969,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -2986,8 +2986,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3003,8 +3003,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3020,8 +3020,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3037,8 +3037,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3054,8 +3054,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3071,8 +3071,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3088,8 +3088,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3105,8 +3105,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3122,8 +3122,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3139,8 +3139,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3156,8 +3156,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3173,8 +3173,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3190,8 +3190,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3207,8 +3207,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3224,8 +3224,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3241,8 +3241,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3258,8 +3258,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3275,8 +3275,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3292,8 +3292,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3309,8 +3309,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3326,8 +3326,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3343,8 +3343,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3360,8 +3360,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3377,8 +3377,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3394,8 +3394,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3411,8 +3411,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3428,8 +3428,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3445,8 +3445,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3462,8 +3462,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3479,8 +3479,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3496,8 +3496,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3513,8 +3513,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3530,8 +3530,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3548,8 +3548,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": true,
         "conflicting_fields": [
           "amt",
@@ -3573,8 +3573,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3590,8 +3590,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3607,8 +3607,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3624,8 +3624,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3641,8 +3641,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3658,8 +3658,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3676,8 +3676,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3693,8 +3693,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3710,8 +3710,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3728,8 +3728,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": true,
         "conflicting_fields": [
           "amt",
@@ -3753,8 +3753,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3771,8 +3771,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": true,
         "conflicting_fields": [
           "amt",
@@ -3796,8 +3796,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3813,8 +3813,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3830,8 +3830,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3847,8 +3847,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3864,8 +3864,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3881,8 +3881,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3898,8 +3898,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3916,8 +3916,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": true,
         "conflicting_fields": [
           "amt",
@@ -3941,8 +3941,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3958,8 +3958,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3976,8 +3976,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -3993,8 +3993,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4010,8 +4010,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4027,8 +4027,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4044,8 +4044,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4061,8 +4061,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4078,8 +4078,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4095,8 +4095,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4112,8 +4112,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4129,8 +4129,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4146,8 +4146,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4163,8 +4163,8 @@
         "sources": [
           "eastmoney_datacenter"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       }
     ],
@@ -4189,8 +4189,8 @@
         "sources": [
           "tencent_quote"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4213,8 +4213,8 @@
         "sources": [
           "tencent_quote"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4237,8 +4237,8 @@
         "sources": [
           "tencent_quote"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4261,8 +4261,8 @@
         "sources": [
           "tencent_quote"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4285,8 +4285,8 @@
         "sources": [
           "tencent_quote"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4305,12 +4305,12 @@
         "mktcap": 203854000000.0,
         "floatcap": 301650000000.0,
         "pb": 0.0,
-        "time": "20261022153330",
+        "time": "20261022153339",
         "sources": [
           "tencent_quote"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4620,8 +4620,8 @@
         "sources": [
           "eastmoney_zt_pool"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4633,8 +4633,8 @@
         "sources": [
           "eastmoney_zt_pool"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4854,8 +4854,8 @@
         "sources": [
           "eastmoney_zt_pool"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4891,12 +4891,111 @@
         "sources": [
           "eastmoney_zdfenbu"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       }
     ],
     "news": [
+      {
+        "_key": "2f4567c7879f",
+        "title": "普拉达：范思哲在集团内部的整合正按计划推进。",
+        "ts": "2026-10-22 18:41:57",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "af6e72182339",
+        "title": "洛克希德·马丁公司盘前股价上涨3%，此前该公司上调了全年每股收益预期。",
+        "ts": "2026-10-22 18:41:47",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "98533a6ee791",
+        "title": "【多家巨头出手了 易方达、华夏、富国、汇添富基金各斥资2亿元自购】易方达基金、华夏基金、富国基金、汇添富基金等多家基金公司陆续公告，分别以固有资金2亿元认购旗下主动ETF。就在两天前，摩根基金率先公告了高达5亿元的自购计划。至此，在首批主动",
+        "ts": "2026-10-22 18:41:13",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "9afba5971e1c",
+        "title": "【江顺科技：股东雷以金减持后持股比例降至14.9999%】江顺科技公告称，公司持股5%以上股东雷以金因自身资金需求减持股份，2026年10月20日至10月21日期间，通过集中竞价交易减持56.91万股，占公司总股本0.6775%；通过大宗交",
+        "ts": "2026-10-22 18:41:05",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "c7fbb25cf059",
+        "title": "普拉达：中东市场环境依然严峻。",
+        "ts": "2026-10-22 18:40:40",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "d4c1a8ba6d55",
+        "title": "【安培龙：股票交易异常波动 无应披露未披露重大事项】安培龙公告称，公司股票于2026年10月20日、10月21日、10月22日连续三个交易日内收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动情形。经自查并向控股股东、实控人核实，不存在",
+        "ts": "2026-10-22 18:40:25",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "e7f0dafa47ec",
+        "title": "普拉达：市场动荡或将持续。",
+        "ts": "2026-10-22 18:40:04",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "2ff6a87f3df9",
+        "title": "霍尼韦尔科技公司预计第四季度销售额为 50 亿美元至 51 亿美元。",
+        "ts": "2026-10-22 18:39:57",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
+      {
+        "_key": "4471e4265ef9",
+        "title": "【汇添富基金2亿固有资金自购旗下主动ETF】汇添富基金最新公告称，基于对中国资本市场长期健康稳定发展的信心，汇添富基金将运用固有资金2亿元认购均衡智选主动ETF汇添富，这也是截止目前第五家宣布自购或股东以自有资金投资旗下主动ETF的基金公司",
+        "ts": "2026-10-22 18:39:48",
+        "sources": [
+          "sina_news"
+        ],
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
+        "conflict": false
+      },
       {
         "_key": "2e8bc7818458",
         "title": "普拉达前九个月有机收入增长4%，零售额达39.3亿欧元。",
@@ -4904,8 +5003,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4915,8 +5014,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4926,8 +5025,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4937,8 +5036,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4948,8 +5047,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4959,8 +5058,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4970,8 +5069,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4981,8 +5080,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -4992,8 +5091,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5003,8 +5102,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5014,8 +5113,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5025,8 +5124,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5036,8 +5135,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5047,8 +5146,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5058,8 +5157,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5069,8 +5168,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5080,8 +5179,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5091,8 +5190,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5102,8 +5201,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5113,8 +5212,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5124,8 +5223,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5135,8 +5234,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5146,8 +5245,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5157,8 +5256,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5168,8 +5267,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5179,8 +5278,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5190,8 +5289,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5201,8 +5300,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5212,8 +5311,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5223,8 +5322,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5234,107 +5333,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "2d3c2ca2bf81",
-        "title": "【小鹏发布IRON机器人交互实测视频，展示无语音指令下的手势响应】近日，小鹏汽车发布《小鹏机器人拟人实验室》交互实测视频，展示人形机器人IRON在无语音指令情况下，随测试者手势变化调整动作的能力。演示中，测试者连续切换握手、碰拳和击掌动作，",
-        "ts": "2026-10-22 18:31:51",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "5c37d3c3455e",
-        "title": "法国总统马克龙：政府将力争禁止非工会组织的抗议活动。",
-        "ts": "2026-10-22 18:31:22",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "1dcb1e009666",
-        "title": "巴基斯坦KSE-100指数初步收跌1.1%，报164,024.40点。",
-        "ts": "2026-10-22 18:30:46",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "a8aa5a2777d2",
-        "title": "【哈尔斯：2026年第三季度归母净利润3292.78万元，同比增长275.38%】哈尔斯公告，2026年第三季度营业收入9.52亿元，同比增长10.00%；归母净利润3292.78万元，同比增长275.38%；扣非净利润3213.92万元，",
-        "ts": "2026-10-22 18:30:24",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "2d13a2401bcf",
-        "title": "【三诺生物：2026年第三季度净利润1.5亿元，同比增长395.16%】三诺生物公告，2026年第三季度营业收入13.03亿元，同比增长9.54%；归属于上市公司股东的净利润1.5亿元，同比增长395.16%；扣非净利润1.41亿元，同比增",
-        "ts": "2026-10-22 18:30:21",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "c9f32f5281b0",
-        "title": "【捷安高科：2026年第三季度净利润697.23万元，同比增长169.70%】捷安高科公告，2026年第三季度营业收入8378.19万元，同比增长52.41%；净利润697.23万元，同比增长169.70%；扣非净利润513.06万元，同比",
-        "ts": "2026-10-22 18:30:17",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "bac5866a2570",
-        "title": "【松原安全：2026年第三季度净利润8947.59万元，同比下降12.02%】松原安全公告，2026年第三季度营业收入9.36亿元，同比增长36.35%；归母净利润8947.59万元，同比下降12.02%；扣非净利润9000.93万元，同比",
-        "ts": "2026-10-22 18:30:09",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "50fd447a4ff3",
-        "title": "【新雷能：2026年第三季度净利润亏损1592.54万元，同比由盈转亏】新雷能公告，2026年第三季度营业收入3.69亿元，同比下降2.01%；净利润亏损1592.54万元，扣非净利润亏损1892.13万元。2026年前三季度营业收入10.",
-        "ts": "2026-10-22 18:30:03",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
-        "conflict": false
-      },
-      {
-        "_key": "05e341182516",
-        "title": "【PHP高危漏洞曝光：360免费开放图龙锋安全体检服务，主动排查漏洞风险】全球广泛使用的服务器端编程语言PHP被曝出两个高危安全漏洞（CVE-2026-109618、CVE-2026-109619），统称\"PHP2Shell\"。在特定条件下",
-        "ts": "2026-10-22 18:30:02",
-        "sources": [
-          "sina_news"
-        ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5344,8 +5344,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5355,8 +5355,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5366,8 +5366,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5377,8 +5377,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5388,8 +5388,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5399,8 +5399,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5410,8 +5410,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5421,8 +5421,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5432,8 +5432,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5443,8 +5443,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       },
       {
@@ -5454,8 +5454,8 @@
         "sources": [
           "sina_news"
         ],
-        "first_seen": "2026-10-22T18:39:43+08:00",
-        "last_seen": "2026-10-22T18:39:43+08:00",
+        "first_seen": "2026-10-22T18:42:01+08:00",
+        "last_seen": "2026-10-22T18:42:01+08:00",
         "conflict": false
       }
     ]
