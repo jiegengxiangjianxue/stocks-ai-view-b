@@ -1,52 +1,55 @@
-审计时间: 2026-10-23 18:35 CST
+审计时间: 2026-10-26 13:44 CST
 
-! ai_pick_v4.json            ts=2026-10-14T17:59:10 age=    9d 过时(9d)
-! ai_picks.json              ts=2026-10-23T18:32:04 age=  0.1h   [空:picks]
+! ai_pick_v4.json            ts=2026-10-14T17:59:10 age=   12d 过时(12d)
+! ai_picks.json              ts=2026-10-26T11:46:52 age=  2.0h   [空:picks]
    all_sources.json           ts=                    age=     -
-! anomaly_report.json        ts=2026-10-14T18:03:08 age=    9d 过时(9d)
-! ban_pick.json              ts=2026-10-14T18:00:27 age=    9d 过时(9d)
-! ban_prob.json              ts=2026-10-14T18:00:15 age=    9d 过时(9d)
-! ban_prob_balanced.json     ts=2026-10-14T18:03:03 age=    9d 过时(9d)
-! bulk_kline_1.json          ts=2026-10-18T06:24:37 age=    6d 过时(6d)
-! decision.json              ts=2026-10-14T18:00:15 age=    9d 过时(9d)
-! edge_report.json           ts=2026-10-14T18:03:04 age=    9d 过时(9d)
-! engine_v5.json             ts=2026-10-14T17:59:03 age=    9d 过时(9d)
-   enrich.json                ts=2026-10-23T18:30:46 age=  0.1h
-! flow_divergence.json       ts=2026-10-14T18:00:34 age=    9d 过时(9d)
-   global_fx.json             ts=2026-10-23T18:35:21 age=  0.0h
-   global_markets.json        ts=2026-10-23T13:55:59 age=    5h
-   hot_impact.json            ts=2026-10-23T18:30:16 age=  0.1h
-! kline_sim.json             ts=2026-10-14T18:00:34 age=    9d 过时(9d)
-   klineshare_hq.json         ts=2026-10-23T13:55:59 age=    5h
-   market_now.json            ts=2026-10-23T18:30:28 age=  0.1h
+! anomaly_report.json        ts=2026-10-14T18:03:08 age=   12d 过时(12d)
+! ban_pick.json              ts=2026-10-14T18:00:27 age=   12d 过时(12d)
+! ban_prob.json              ts=2026-10-14T18:00:15 age=   12d 过时(12d)
+! ban_prob_balanced.json     ts=2026-10-14T18:03:03 age=   12d 过时(12d)
+! bulk_kline_1.json          ts=2026-10-25T06:05:52 age=   32h 过时(32h)
+! decision.json              ts=2026-10-14T18:00:15 age=   12d 过时(12d)
+! edge_report.json           ts=2026-10-14T18:03:04 age=   12d 过时(12d)
+! engine_v5.json             ts=2026-10-14T17:59:03 age=   12d 过时(12d)
+   enrich.json                ts=2026-10-26T11:45:58 age=  2.0h
+! flow_divergence.json       ts=2026-10-14T18:00:34 age=   12d 过时(12d)
+   global_fx.json             ts=2026-10-26T13:44:15 age=  0.0h
+! global_markets.json        ts=2026-10-23T19:11:16 age=    3d 过时(3d)
+   hot_impact.json            ts=2026-10-26T11:45:26 age=  2.0h
+! kline_sim.json             ts=2026-10-14T18:00:34 age=   12d 过时(12d)
+! klineshare_hq.json         ts=2026-10-23T19:11:16 age=    3d 过时(3d)
+   market_now.json            ts=2026-10-26T11:45:42 age=  2.0h
    market_phase.json          ts=2026-10-14T17:58:29 age=     ?
-! multidim.json              ts=2026-10-14T18:00:15 age=    9d 过时(9d)
-   news_digest.json           ts=2026-10-23T18:35:20 age=  0.0h
-   news_extra.json            ts=2026-10-23T13:55:54 age=    5h
-   realtime_minute.json       ts=2026-10-23          age=   19h
+! multidim.json              ts=2026-10-14T18:00:15 age=   12d 过时(12d)
+   news_digest.json           ts=2026-10-26T13:44:15 age=  0.0h
+! news_extra.json            ts=2026-10-23T19:11:13 age=    3d 过时(3d)
+   realtime_minute.json       ts=2026-10-26          age=   14h
    risk_plan.json             ts=                    age=     -
-! scenario.json              ts=2026-10-14T18:03:04 age=    9d 过时(9d)
-! self_reflect.json          ts=2026-10-14T18:03:04 age=    9d 过时(9d)
+! scenario.json              ts=2026-10-14T18:03:04 age=   12d 过时(12d)
+! self_reflect.json          ts=2026-10-14T18:03:04 age=   12d 过时(12d)
    shard_b.json               ts=                    age=     -
-! signal_audit.json          ts=2026-10-14T18:03:04 age=    9d 过时(9d)
+! signal_audit.json          ts=2026-10-14T18:03:04 age=   12d 过时(12d)
    sources_registry.json      ts=                    age=     -
-! validation_report.json     ts=2026-10-14T18:03:08 age=    9d 过时(9d)
+! validation_report.json     ts=2026-10-14T18:03:08 age=   12d 过时(12d)
 
-=== 问题清单 (17) ===
-  [STALE] ai_pick_v4.json: age=9d
+=== 问题清单 (20) ===
+  [STALE] ai_pick_v4.json: age=12d
   [EMPTY] ai_picks.json: picks
-  [STALE] anomaly_report.json: age=9d
-  [STALE] ban_pick.json: age=9d
-  [STALE] ban_prob.json: age=9d
-  [STALE] ban_prob_balanced.json: age=9d
-  [STALE] bulk_kline_1.json: age=6d
-  [STALE] decision.json: age=9d
-  [STALE] edge_report.json: age=9d
-  [STALE] engine_v5.json: age=9d
-  [STALE] flow_divergence.json: age=9d
-  [STALE] kline_sim.json: age=9d
-  [STALE] multidim.json: age=9d
-  [STALE] scenario.json: age=9d
-  [STALE] self_reflect.json: age=9d
-  [STALE] signal_audit.json: age=9d
-  [STALE] validation_report.json: age=9d
+  [STALE] anomaly_report.json: age=12d
+  [STALE] ban_pick.json: age=12d
+  [STALE] ban_prob.json: age=12d
+  [STALE] ban_prob_balanced.json: age=12d
+  [STALE] bulk_kline_1.json: age=32h
+  [STALE] decision.json: age=12d
+  [STALE] edge_report.json: age=12d
+  [STALE] engine_v5.json: age=12d
+  [STALE] flow_divergence.json: age=12d
+  [STALE] global_markets.json: age=3d
+  [STALE] kline_sim.json: age=12d
+  [STALE] klineshare_hq.json: age=3d
+  [STALE] multidim.json: age=12d
+  [STALE] news_extra.json: age=3d
+  [STALE] scenario.json: age=12d
+  [STALE] self_reflect.json: age=12d
+  [STALE] signal_audit.json: age=12d
+  [STALE] validation_report.json: age=12d
