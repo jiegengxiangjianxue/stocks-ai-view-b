@@ -1,7 +1,7 @@
-审计时间: 2026-10-27 19:08 CST
+审计时间: 2026-10-27 19:43 CST
 
 ! ai_pick_v4.json            ts=2026-10-14T17:59:10 age=   13d 过时(13d)
-! ai_picks.json              ts=2026-10-27T18:49:57 age=  0.3h   [空:picks]
+! ai_picks.json              ts=2026-10-27T19:07:57 age=  0.6h   [空:picks]
    all_sources.json           ts=                    age=     -
 ! anomaly_report.json        ts=2026-10-14T18:03:08 age=   13d 过时(13d)
 ! ban_pick.json              ts=2026-10-14T18:00:27 age=   13d 过时(13d)
@@ -11,19 +11,19 @@
 ! decision.json              ts=2026-10-14T18:00:15 age=   13d 过时(13d)
 ! edge_report.json           ts=2026-10-14T18:03:04 age=   13d 过时(13d)
 ! engine_v5.json             ts=2026-10-14T17:59:03 age=   13d 过时(13d)
-   enrich.json                ts=2026-10-27T18:48:47 age=  0.3h
+   enrich.json                ts=2026-10-27T19:07:20 age=  0.6h
 ! flow_divergence.json       ts=2026-10-14T18:00:34 age=   13d 过时(13d)
-   global_fx.json             ts=2026-10-27T19:08:04 age=  0.0h
-   global_markets.json        ts=2026-10-27T14:10:27 age=    5h
-   hot_impact.json            ts=2026-10-27T18:48:18 age=  0.3h
+   global_fx.json             ts=2026-10-27T19:43:25 age=  0.0h
+   global_markets.json        ts=2026-10-27T14:10:27 age=    6h
+   hot_impact.json            ts=2026-10-27T19:06:47 age=  0.6h
 ! kline_sim.json             ts=2026-10-14T18:00:34 age=   13d 过时(13d)
-   klineshare_hq.json         ts=2026-10-27T14:10:27 age=    5h
-   market_now.json            ts=2026-10-27T18:48:30 age=  0.3h
+   klineshare_hq.json         ts=2026-10-27T14:10:27 age=    6h
+   market_now.json            ts=2026-10-27T19:07:00 age=  0.6h
    market_phase.json          ts=2026-10-14T17:58:29 age=     ?
 ! multidim.json              ts=2026-10-14T18:00:15 age=   13d 过时(13d)
-   news_digest.json           ts=2026-10-27T19:08:04 age=  0.0h
-   news_extra.json            ts=2026-10-27T14:10:23 age=    5h
-   realtime_minute.json       ts=2026-10-27          age=   19h
+   news_digest.json           ts=2026-10-27T19:43:25 age=  0.0h
+   news_extra.json            ts=2026-10-27T14:10:23 age=    6h
+   realtime_minute.json       ts=2026-10-27          age=   20h
    risk_plan.json             ts=                    age=     -
 ! scenario.json              ts=2026-10-14T18:03:04 age=   13d 过时(13d)
 ! self_reflect.json          ts=2026-10-14T18:03:04 age=   13d 过时(13d)
