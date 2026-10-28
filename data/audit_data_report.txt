@@ -1,7 +1,7 @@
-审计时间: 2026-10-28 21:29 CST
+审计时间: 2026-10-28 21:31 CST
 
 ! ai_pick_v4.json            ts=2026-10-14T17:59:10 age=   14d 过时(14d)
-! ai_picks.json              ts=2026-10-28T19:27:54 age=    2h   [空:picks]
+! ai_picks.json              ts=2026-10-28T21:29:08 age=  0.0h   [空:picks]
    all_sources.json           ts=                    age=     -
 ! anomaly_report.json        ts=2026-10-14T18:03:08 age=   14d 过时(14d)
 ! ban_pick.json              ts=2026-10-14T18:00:27 age=   14d 过时(14d)
@@ -11,19 +11,19 @@
 ! decision.json              ts=2026-10-14T18:00:15 age=   14d 过时(14d)
 ! edge_report.json           ts=2026-10-14T18:03:04 age=   14d 过时(14d)
 ! engine_v5.json             ts=2026-10-14T17:59:03 age=   14d 过时(14d)
-   enrich.json                ts=2026-10-28T19:26:11 age=    2h
+   enrich.json                ts=2026-10-28T21:28:08 age=  0.1h
 ! flow_divergence.json       ts=2026-10-14T18:00:34 age=   14d 过时(14d)
-   global_fx.json             ts=2026-10-28T21:29:46 age=  0.0h
+   global_fx.json             ts=2026-10-28T21:31:56 age=  0.0h
    global_markets.json        ts=2026-10-28T14:47:43 age=    7h
-   hot_impact.json            ts=2026-10-28T19:25:36 age=    2h
+   hot_impact.json            ts=2026-10-28T21:27:33 age=  0.1h
 ! kline_sim.json             ts=2026-10-14T18:00:34 age=   14d 过时(14d)
    klineshare_hq.json         ts=2026-10-28T14:47:43 age=    7h
-   market_now.json            ts=2026-10-28T19:25:51 age=    2h
+   market_now.json            ts=2026-10-28T21:27:48 age=  0.1h
    market_phase.json          ts=2026-10-14T17:58:29 age=     ?
 ! multidim.json              ts=2026-10-14T18:00:15 age=   14d 过时(14d)
-   news_digest.json           ts=2026-10-28T21:29:46 age=  0.0h
+   news_digest.json           ts=2026-10-28T21:31:56 age=  0.0h
    news_extra.json            ts=2026-10-28T14:47:40 age=    7h
-   realtime_minute.json       ts=2026-10-28          age=   21h
+   realtime_minute.json       ts=2026-10-28          age=   22h
    risk_plan.json             ts=                    age=     -
 ! scenario.json              ts=2026-10-14T18:03:04 age=   14d 过时(14d)
 ! self_reflect.json          ts=2026-10-14T18:03:04 age=   14d 过时(14d)
