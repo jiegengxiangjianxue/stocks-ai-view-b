@@ -1,0 +1,5406 @@
+{
+  "schema_version": "news-impact.v2",
+  "status": "dry_run",
+  "ts": "2026-10-29T14:57:04+08:00",
+  "generated_at": "2026-10-29T14:57:04+08:00",
+  "input_ts": "2026-10-29T14:57:04+08:00",
+  "run_id": "40832248695",
+  "engine": "news_impact_analyze v2",
+  "date": "2026-10-29",
+  "n": 50,
+  "n_input": 50,
+  "n_mapped": 12,
+  "n_unmapped": 38,
+  "coverage_status": "complete",
+  "source_status": "mixed_or_stale",
+  "push_status": "dry_run",
+  "publish": {
+    "status": "dry_run"
+  },
+  "output_path": "/home/runner/work/stocks-ai-view-b/stocks-ai-view-b/data/news_impact.json",
+  "provenance": {
+    "source": "eastmoney_724_or_github_snapshot",
+    "confidence": "rule_based_public_text",
+    "snapshot_ts": "2026-10-29T14:57:04+08:00",
+    "stale": false
+  },
+  "direction_stat": {
+    "bear": 11,
+    "neutral": 32,
+    "bull": 7
+  },
+  "items": [
+    {
+      "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518583",
+      "codes": [],
+      "themes": [
+        "港美股"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：不及预期",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "不及预期"
+      ],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518583"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518583"
+    },
+    {
+      "title": "一图解读美联储10月决议：如期“按兵不动”，明年起减少议息次数！",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518564",
+      "codes": [],
+      "themes": [
+        "国际"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "一图解读美联储10月决议：如期“按兵不动”，明年起减少议息次数！",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518564"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518564"
+    },
+    {
+      "title": "美联储如期维持基准利率不变 两名票委主张加息25个基点",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518477",
+      "codes": [],
+      "themes": [
+        "国际"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "美联储如期维持基准利率不变 两名票委主张加息25个基点",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518477"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518477"
+    },
+    {
+      "title": "AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518569",
+      "codes": [],
+      "themes": [
+        "产业"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：兑现"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：兑现",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：兑现",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "兑现"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518569"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518569"
+    },
+    {
+      "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518554",
+      "codes": [],
+      "themes": [
+        "港美股"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [
+        "云计算"
+      ],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "board",
+      "evidence": {
+        "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518554"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518554"
+    },
+    {
+      "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518584",
+      "codes": [],
+      "themes": [
+        "国际"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518584"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518584"
+    },
+    {
+      "title": "沃什宣布明年起减少议息频次 对后续利率路径仍拒绝给出指引",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518528",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "沃什宣布明年起减少议息频次 对后续利率路径仍拒绝给出指引",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518528"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518528"
+    },
+    {
+      "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518865",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518865"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518865"
+    },
+    {
+      "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518747",
+      "codes": [],
+      "themes": [
+        "产业"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [
+        "汽车"
+      ],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "board",
+      "evidence": {
+        "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518747"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518747"
+    },
+    {
+      "title": "【数读IPO】国产工业母机细分龙头来了",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518582",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "【数读IPO】国产工业母机细分龙头来了",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518582"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518582"
+    },
+    {
+      "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518619",
+      "codes": [],
+      "themes": [
+        "产业"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：不及预期",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "不及预期"
+      ],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518619"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518619"
+    },
+    {
+      "title": "Alphabet盘后重挫10%！营收、利润均逊于预期 连续两季录得负自由现金流",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518615",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "Alphabet盘后重挫10%！营收、利润均逊于预期 连续两季录得负自由现金流",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518615"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518615"
+    },
+    {
+      "title": "微软财报会实录：云与AI驱动业绩超预期，持续高投资布局智能体长期赛道！",
+      "digest": "",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "ts": "2026-10-29T14:41:28+08:00",
+      "source": "财联社热门",
+      "source_url": "https://www.cls.cn/detail/2518788",
+      "codes": [],
+      "themes": [
+        "产业"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：超预期、超预期"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：超预期、超预期",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：超预期、超预期",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "超预期",
+        "超预期"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "微软财报会实录：云与AI驱动业绩超预期，持续高投资布局智能体长期赛道！",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518788"
+      },
+      "confidence": 0.65,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518788"
+    },
+    {
+      "title": "财联社10月29日电，初创公司Foundry已完成新一轮融资，筹资总额达1亿美元，将用于建设自动化工厂。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519045",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，初创公司Foundry已完成新一轮融资，筹资总额达1亿美元，将用于建设自动化工厂。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519045"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519045"
+    },
+    {
+      "title": "财联社10月29日电，碳酸锂连续主力合约日内跌8%，现报88740元/吨。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519044",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，碳酸锂连续主力合约日内跌8%，现报88740元/吨。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519044"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519044"
+    },
+    {
+      "title": "韩国央行委员：韩元近期升值步伐快于预期 需密切关注",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519041",
+      "codes": [],
+      "themes": [
+        "政策"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "韩国央行委员：韩元近期升值步伐快于预期 需密切关注",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519041"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519041"
+    },
+    {
+      "title": "财联社10月29日电，大众汽车第三季度营业亏损58.6亿欧元，市场预估亏损56.7亿欧元。大众汽车第三季度营收752.8亿欧元，市场预估781.9亿欧元。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519040",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：亏损、亏损",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "亏损",
+        "亏损"
+      ],
+      "boards": [
+        "汽车"
+      ],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "board",
+      "evidence": {
+        "title": "财联社10月29日电，大众汽车第三季度营业亏损58.6亿欧元，市场预估亏损56.7亿欧元。大众汽车第三季度营收752.8亿欧元，市场预估781.9亿欧元。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519040"
+      },
+      "confidence": 0.65,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519040"
+    },
+    {
+      "title": "财联社10月29日电，俄罗斯国家原子能公司正与美国讨论在小型核电站领域开展合作，以为人工智能数据中心供电的可能性。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519039",
+      "codes": [],
+      "themes": [
+        "产业"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：合作"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：合作",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：合作",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "合作"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，俄罗斯国家原子能公司正与美国讨论在小型核电站领域开展合作，以为人工智能数据中心供电的可能性。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519039"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519039"
+    },
+    {
+      "title": "阿迪达斯三季度营收同比增长9.4%",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519037",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：增长"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：增长",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：增长",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "增长"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "阿迪达斯三季度营收同比增长9.4%",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519037"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519037"
+    },
+    {
+      "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519036",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519036"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519036"
+    },
+    {
+      "title": "山东：到2030年 高端化工营业收入占全省化工行业比重达65%左右",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519034",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "山东：到2030年 高端化工营业收入占全省化工行业比重达65%左右",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519034"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519034"
+    },
+    {
+      "title": "财联社10月29日电，索尼集团发行人评级被上调至 AA，评级展望稳定。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519032",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，索尼集团发行人评级被上调至 AA，评级展望稳定。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519032"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519032"
+    },
+    {
+      "title": "碳酸锂期货主力跌近7% 失守9万元/吨关口",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519031",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "碳酸锂期货主力跌近7% 失守9万元/吨关口",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519031"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519031"
+    },
+    {
+      "title": "ST臻镭：正围绕光模块等新兴应用场景进行布局 相关营收占比较低",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519030",
+      "codes": [
+        "688270"
+      ],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [
+        {
+          "code": "688270",
+          "name": "ST臻镭",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "affected_stocks": [
+        {
+          "code": "688270",
+          "name": "ST臻镭",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "ST臻镭：正围绕光模块等新兴应用场景进行布局 相关营收占比较低",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519030"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519030"
+    },
+    {
+      "title": "财联社10月29日电，德国软件公司SAP SE 盘前股价预计下跌3.6%。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519027",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下跌",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "下跌"
+      ],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，德国软件公司SAP SE 盘前股价预计下跌3.6%。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519027"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519027"
+    },
+    {
+      "title": "财联社10月29日电，英国海上贸易行动办公室（UKMTO）表示，已收到一份关于在霍尔木兹海峡、阿曼哈萨卜以北9海里处发生事件的报告。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519026",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，英国海上贸易行动办公室（UKMTO）表示，已收到一份关于在霍尔木兹海峡、阿曼哈萨卜以北9海里处发生事件的报告。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519026"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519026"
+    },
+    {
+      "title": "财联社10月29日电，韩国国家安全顾问称，正就霍尔木兹海峡部署问题与美国持续磋商，仍在考虑多种选项。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519025",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，韩国国家安全顾问称，正就霍尔木兹海峡部署问题与美国持续磋商，仍在考虑多种选项。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519025"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519025"
+    },
+    {
+      "title": "财联社10月29日电，大众汽车第三季度营业利益率-7.8％，预估-7.35％。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519024",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [
+        "汽车"
+      ],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "board",
+      "evidence": {
+        "title": "财联社10月29日电，大众汽车第三季度营业利益率-7.8％，预估-7.35％。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519024"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519024"
+    },
+    {
+      "title": "科创50、创业板指均跌逾4%",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519022",
+      "codes": [],
+      "themes": [
+        "A股"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "科创50、创业板指均跌逾4%",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519022"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519022"
+    },
+    {
+      "title": "财联社10月29日电，日经225指数收涨1.10%，报64659.47点；韩国KOSPI指数收跌1.24%，报5937.66点。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519021",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，日经225指数收涨1.10%，报64659.47点；韩国KOSPI指数收跌1.24%，报5937.66点。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519021"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519021"
+    },
+    {
+      "title": "【盘中宝】该行业拐点有望在业绩集中披露后逐步显现，多个催化事件或带动相关板块迎来新一轮复苏，这家企业已与多个头部公司建立深度合作关系",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519003",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：合作"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：合作",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：合作",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "合作"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "【盘中宝】该行业拐点有望在业绩集中披露后逐步显现，多个催化事件或带动相关板块迎来新一轮复苏，这家企业已与多个头部公司建立深度合作关系",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519003"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519003"
+    },
+    {
+      "title": "财联社10月29日电，伦锡日内下跌2%，报50300美元/吨。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519013",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下跌",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "下跌"
+      ],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，伦锡日内下跌2%，报50300美元/吨。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519013"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519013"
+    },
+    {
+      "title": "10月29日全国农产品批发市场猪肉平均价格为15.38元/公斤 比昨天下降1.3%",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519010",
+      "codes": [
+        "000061"
+      ],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下降"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下降",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下降"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "下降"
+      ],
+      "boards": [],
+      "stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "affected_stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "10月29日全国农产品批发市场猪肉平均价格为15.38元/公斤 比昨天下降1.3%",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519010"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519010"
+    },
+    {
+      "title": "蓝佛安会见世界银行常务副行长兼首席行政官张文才",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2519005",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "蓝佛安会见世界银行常务副行长兼首席行政官张文才",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519005"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519005"
+    },
+    {
+      "title": "PCB概念持续下挫 华正新材等多股跌停",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518997",
+      "codes": [
+        "603186"
+      ],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：跌停、跌停"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：跌停、跌停",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：跌停、跌停"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "跌停",
+        "跌停"
+      ],
+      "boards": [],
+      "stocks": [
+        {
+          "code": "603186",
+          "name": "华正新材",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.65
+        }
+      ],
+      "affected_stocks": [
+        {
+          "code": "603186",
+          "name": "华正新材",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.65
+        }
+      ],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "PCB概念持续下挫 华正新材等多股跌停",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518997"
+      },
+      "confidence": 0.65,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518997"
+    },
+    {
+      "title": "主力资金监控：电子板块净流出超232亿",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518996",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [
+        "电子"
+      ],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "board",
+      "evidence": {
+        "title": "主力资金监控：电子板块净流出超232亿",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518996"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518996"
+    },
+    {
+      "title": "财联社10月29日电，俄罗斯国防部称一夜之间在俄罗斯各地区击落1214架乌克兰无人机。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518998",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，俄罗斯国防部称一夜之间在俄罗斯各地区击落1214架乌克兰无人机。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518998"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518998"
+    },
+    {
+      "title": "财联社10月29日电，汇丰银行将梅赛德斯-奔驰目标价从61欧元下调至56欧元。",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518993",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下调"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下调",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下调"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "下调"
+      ],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，汇丰银行将梅赛德斯-奔驰目标价从61欧元下调至56欧元。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518993"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518993"
+    },
+    {
+      "title": "沪市1091家公司披露三季报 超八成公司实现盈利",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518992",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：盈利"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：盈利",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：盈利",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "盈利"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "沪市1091家公司披露三季报 超八成公司实现盈利",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518992"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518992"
+    },
+    {
+      "title": "“新债王”质疑美联储落后于形势：除非油价明显回落 否则12月必须加息",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518991",
+      "codes": [],
+      "themes": [
+        "国际"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：回落"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：回落",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：回落"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "回落"
+      ],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "“新债王”质疑美联储落后于形势：除非油价明显回落 否则12月必须加息",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518991"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518991"
+    },
+    {
+      "title": "【盘中宝】商业航天制造需求全面升级，这类技术变成“供应链里的默认选项”，这家公司相关产品可应用于商业航天领域",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518983",
+      "codes": [
+        "000061"
+      ],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "affected_stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "【盘中宝】商业航天制造需求全面升级，这类技术变成“供应链里的默认选项”，这家公司相关产品可应用于商业航天领域",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518983"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518983"
+    },
+    {
+      "title": "俄罗斯Yandex因数据中心遭袭击撤回2026年业绩指引",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518990",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "俄罗斯Yandex因数据中心遭袭击撤回2026年业绩指引",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518990"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518990"
+    },
+    {
+      "title": "美银证券：升中国石油股份目标价至12港元",
+      "digest": "",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "ts": "2026-10-29T14:47:30+08:00",
+      "source": "财联社电报",
+      "source_url": "https://www.cls.cn/detail/2518986",
+      "codes": [
+        "601857"
+      ],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [
+        {
+          "code": "601857",
+          "name": "中国石油",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "affected_stocks": [
+        {
+          "code": "601857",
+          "name": "中国石油",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "美银证券：升中国石油股份目标价至12港元",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518986"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518986"
+    },
+    {
+      "title": "山东印发高端化工产业高质量发展行动计划",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189637",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "山东印发高端化工产业高质量发展行动计划",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189637"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189637"
+    },
+    {
+      "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施。",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189634",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189634"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189634"
+    },
+    {
+      "title": "碳酸锂期货失守9万元/吨关口",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189633",
+      "codes": [],
+      "themes": [],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "碳酸锂期货失守9万元/吨关口",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189633"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189633"
+    },
+    {
+      "title": "大众汽车第三季度营收752.8亿欧元，预估781.9亿欧元。\n\n第三季度营业损失58.6亿欧元，预估亏损56.7亿欧元。",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189631",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：亏损、亏损",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "亏损",
+        "亏损"
+      ],
+      "boards": [
+        "汽车"
+      ],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "board",
+      "evidence": {
+        "title": "大众汽车第三季度营收752.8亿欧元，预估781.9亿欧元。\n\n第三季度营业损失58.6亿欧元，预估亏损56.7亿欧元。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189631"
+      },
+      "confidence": 0.65,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189631"
+    },
+    {
+      "title": "创业板指跌超4%，沪指跌0.85%，深成指跌2.72%。算力硬件、半导体芯片、消费电子、软件开发等方向跌幅居前，沪深京三市下跌个股超4700只。",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189630",
+      "codes": [
+        "000514"
+      ],
+      "themes": [
+        "A股"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neg",
+      "direction": "bear",
+      "verdict": "利空",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下跌",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "pos_words": [],
+      "neg_words": [
+        "下跌"
+      ],
+      "boards": [
+        "软件开发",
+        "半导体",
+        "消费电子"
+      ],
+      "stocks": [
+        {
+          "code": "000514",
+          "name": "开 发",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "affected_stocks": [
+        {
+          "code": "000514",
+          "name": "开 发",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "affected_stocks_status": "ok",
+      "impact_reason": "公开标题/摘要命中可核验代码、名称或板块",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "创业板指跌超4%，沪指跌0.85%，深成指跌2.72%。算力硬件、半导体芯片、消费电子、软件开发等方向跌幅居前，沪深京三市下跌个股超4700只。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189630"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189630"
+    },
+    {
+      "title": "阿迪达斯第三季度营收72.5亿欧元，同比增长9.4%，预估72.5亿欧元。\n\n第三季度欧洲营收22.4亿欧元，预估23.8亿欧元。\n\n第三季度毛利率54.3％，预估54.3％。\n\n第三季度营业利润10.1亿欧元，预估10.1亿欧元。\n\n第三季度营业利益率13.9％，预估12.5％。\n\n第三季度净利润7.06亿欧元，预估5.647亿欧元。\n\n阿迪达斯仍然预测全年营业利润大约25亿欧元，市场预估24.7亿欧元。",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189628",
+      "codes": [],
+      "themes": [
+        "公司"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "pos",
+      "direction": "bull",
+      "verdict": "利好",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：增长"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "公开标题/摘要命中利好词：增长",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "公开标题/摘要命中利好词：增长",
+        "unknown: 未命中可核验利空词"
+      ],
+      "pos_words": [
+        "增长"
+      ],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "阿迪达斯第三季度营收72.5亿欧元，同比增长9.4%，预估72.5亿欧元。\n\n第三季度欧洲营收22.4亿欧元，预估23.8亿欧元。\n\n第三季度毛利率54.3％，预估54.3％。\n\n第三季度营业利润10.1亿欧元，预估10.1亿欧元。\n\n第三季度营业利益率13.9％，预估12.5％。\n\n第三季度净利润7.06亿欧元，预估5.647亿欧元。\n\n阿迪达斯仍然预测全年营业利润大约25亿欧元，市场预估24.7亿欧元。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189628"
+      },
+      "confidence": 0.55,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189628"
+    },
+    {
+      "title": "日经225指数收涨1.1%，报64659.47点。\n\n日本东证指数收涨0.3%，报4003.28点。\n\n韩国首尔综指收跌1.2%，报5937.66点。",
+      "digest": "",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "ts": "2026-10-29T14:43:46+08:00",
+      "source": "华尔街见闻",
+      "source_url": "https://wallstreetcn.com/livenews/3189632",
+      "codes": [],
+      "themes": [
+        "国际"
+      ],
+      "input_freshness": "collector_snapshot",
+      "stale": false,
+      "sentiment": "neu",
+      "direction": "neutral",
+      "verdict": "中性",
+      "status": "ok",
+      "evidence_status": "sufficient",
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "pos_words": [],
+      "neg_words": [],
+      "boards": [],
+      "stocks": [],
+      "affected_stocks": [],
+      "affected_stocks_status": "insufficient_data",
+      "impact_reason": "未找到可核验个股或板块证据",
+      "matched_by": "none",
+      "evidence": {
+        "title": "日经225指数收涨1.1%，报64659.47点。\n\n日本东证指数收涨0.3%，报4003.28点。\n\n韩国首尔综指收跌1.2%，报5937.66点。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189632"
+      },
+      "confidence": 0.2,
+      "confidence_basis": "rule_based_public_text",
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "analyzed_at": "2026-10-29T14:57:04+08:00",
+      "run_id": "40832248695",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189632"
+    }
+  ],
+  "impacts": [
+    {
+      "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518583",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：不及预期",
+      "matched_by": "none",
+      "evidence": {
+        "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518583"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "stale": false
+    },
+    {
+      "title": "一图解读美联储10月决议：如期“按兵不动”，明年起减少议息次数！",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518564",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "一图解读美联储10月决议：如期“按兵不动”，明年起减少议息次数！",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518564"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "美联储如期维持基准利率不变 两名票委主张加息25个基点",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518477",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "美联储如期维持基准利率不变 两名票委主张加息25个基点",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518477"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518569",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：兑现",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518569"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：兑现",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：兑现"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518554",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "board",
+      "evidence": {
+        "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518554"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [
+        "云计算"
+      ],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518584",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518584"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "沃什宣布明年起减少议息频次 对后续利率路径仍拒绝给出指引",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518528",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "沃什宣布明年起减少议息频次 对后续利率路径仍拒绝给出指引",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518528"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518865",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518865"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518747",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "board",
+      "evidence": {
+        "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518747"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [
+        "汽车"
+      ],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "【数读IPO】国产工业母机细分龙头来了",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518582",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "【数读IPO】国产工业母机细分龙头来了",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518582"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518619",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：不及预期",
+      "matched_by": "none",
+      "evidence": {
+        "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518619"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：不及预期"
+      ],
+      "stale": false
+    },
+    {
+      "title": "Alphabet盘后重挫10%！营收、利润均逊于预期 连续两季录得负自由现金流",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518615",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "Alphabet盘后重挫10%！营收、利润均逊于预期 连续两季录得负自由现金流",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518615"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "微软财报会实录：云与AI驱动业绩超预期，持续高投资布局智能体长期赛道！",
+      "source": "财联社热门",
+      "published_at": "2026-10-29T14:41:28+08:00",
+      "time": "2026-10-29T14:41:28+08:00",
+      "url": "https://www.cls.cn/detail/2518788",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：超预期、超预期",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "微软财报会实录：云与AI驱动业绩超预期，持续高投资布局智能体长期赛道！",
+        "digest": "",
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "url": "https://www.cls.cn/detail/2518788"
+      },
+      "provenance": {
+        "source": "财联社热门",
+        "published_at": "2026-10-29T14:41:28+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社热门",
+      "themes": [],
+      "confidence": 0.65,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：超预期、超预期",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：超预期、超预期"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，初创公司Foundry已完成新一轮融资，筹资总额达1亿美元，将用于建设自动化工厂。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519045",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，初创公司Foundry已完成新一轮融资，筹资总额达1亿美元，将用于建设自动化工厂。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519045"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，碳酸锂连续主力合约日内跌8%，现报88740元/吨。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519044",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，碳酸锂连续主力合约日内跌8%，现报88740元/吨。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519044"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "韩国央行委员：韩元近期升值步伐快于预期 需密切关注",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519041",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "韩国央行委员：韩元近期升值步伐快于预期 需密切关注",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519041"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，大众汽车第三季度营业亏损58.6亿欧元，市场预估亏损56.7亿欧元。大众汽车第三季度营收752.8亿欧元，市场预估781.9亿欧元。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519040",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：亏损、亏损",
+      "matched_by": "board",
+      "evidence": {
+        "title": "财联社10月29日电，大众汽车第三季度营业亏损58.6亿欧元，市场预估亏损56.7亿欧元。大众汽车第三季度营收752.8亿欧元，市场预估781.9亿欧元。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519040"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [
+        "汽车"
+      ],
+      "confidence": 0.65,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，俄罗斯国家原子能公司正与美国讨论在小型核电站领域开展合作，以为人工智能数据中心供电的可能性。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519039",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：合作",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，俄罗斯国家原子能公司正与美国讨论在小型核电站领域开展合作，以为人工智能数据中心供电的可能性。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519039"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：合作",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：合作"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "阿迪达斯三季度营收同比增长9.4%",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519037",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：增长",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "阿迪达斯三季度营收同比增长9.4%",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519037"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：增长",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：增长"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519036",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519036"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "山东：到2030年 高端化工营业收入占全省化工行业比重达65%左右",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519034",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "山东：到2030年 高端化工营业收入占全省化工行业比重达65%左右",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519034"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，索尼集团发行人评级被上调至 AA，评级展望稳定。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519032",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，索尼集团发行人评级被上调至 AA，评级展望稳定。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519032"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "碳酸锂期货主力跌近7% 失守9万元/吨关口",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519031",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "碳酸锂期货主力跌近7% 失守9万元/吨关口",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519031"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "ST臻镭：正围绕光模块等新兴应用场景进行布局 相关营收占比较低",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519030",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "ST臻镭：正围绕光模块等新兴应用场景进行布局 相关营收占比较低",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519030"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [
+        {
+          "code": "688270",
+          "name": "ST臻镭",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 1,
+      "stocks": [
+        {
+          "code": "688270",
+          "name": "ST臻镭",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，德国软件公司SAP SE 盘前股价预计下跌3.6%。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519027",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下跌",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，德国软件公司SAP SE 盘前股价预计下跌3.6%。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519027"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，英国海上贸易行动办公室（UKMTO）表示，已收到一份关于在霍尔木兹海峡、阿曼哈萨卜以北9海里处发生事件的报告。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519026",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，英国海上贸易行动办公室（UKMTO）表示，已收到一份关于在霍尔木兹海峡、阿曼哈萨卜以北9海里处发生事件的报告。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519026"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，韩国国家安全顾问称，正就霍尔木兹海峡部署问题与美国持续磋商，仍在考虑多种选项。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519025",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，韩国国家安全顾问称，正就霍尔木兹海峡部署问题与美国持续磋商，仍在考虑多种选项。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519025"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，大众汽车第三季度营业利益率-7.8％，预估-7.35％。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519024",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "board",
+      "evidence": {
+        "title": "财联社10月29日电，大众汽车第三季度营业利益率-7.8％，预估-7.35％。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519024"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [
+        "汽车"
+      ],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "科创50、创业板指均跌逾4%",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519022",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "科创50、创业板指均跌逾4%",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519022"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，日经225指数收涨1.10%，报64659.47点；韩国KOSPI指数收跌1.24%，报5937.66点。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519021",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，日经225指数收涨1.10%，报64659.47点；韩国KOSPI指数收跌1.24%，报5937.66点。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519021"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "【盘中宝】该行业拐点有望在业绩集中披露后逐步显现，多个催化事件或带动相关板块迎来新一轮复苏，这家企业已与多个头部公司建立深度合作关系",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519003",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：合作",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "【盘中宝】该行业拐点有望在业绩集中披露后逐步显现，多个催化事件或带动相关板块迎来新一轮复苏，这家企业已与多个头部公司建立深度合作关系",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519003"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：合作",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：合作"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，伦锡日内下跌2%，报50300美元/吨。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519013",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下跌",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，伦锡日内下跌2%，报50300美元/吨。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519013"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "stale": false
+    },
+    {
+      "title": "10月29日全国农产品批发市场猪肉平均价格为15.38元/公斤 比昨天下降1.3%",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519010",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下降",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "10月29日全国农产品批发市场猪肉平均价格为15.38元/公斤 比昨天下降1.3%",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519010"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 1,
+      "stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下降"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下降"
+      ],
+      "stale": false
+    },
+    {
+      "title": "蓝佛安会见世界银行常务副行长兼首席行政官张文才",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2519005",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "蓝佛安会见世界银行常务副行长兼首席行政官张文才",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2519005"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "PCB概念持续下挫 华正新材等多股跌停",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518997",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：跌停、跌停",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "PCB概念持续下挫 华正新材等多股跌停",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518997"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [
+        {
+          "code": "603186",
+          "name": "华正新材",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.65
+        }
+      ],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.65,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 1,
+      "stocks": [
+        {
+          "code": "603186",
+          "name": "华正新材",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.65
+        }
+      ],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：跌停、跌停"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：跌停、跌停"
+      ],
+      "stale": false
+    },
+    {
+      "title": "主力资金监控：电子板块净流出超232亿",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518996",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "board",
+      "evidence": {
+        "title": "主力资金监控：电子板块净流出超232亿",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518996"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [
+        "电子"
+      ],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，俄罗斯国防部称一夜之间在俄罗斯各地区击落1214架乌克兰无人机。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518998",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，俄罗斯国防部称一夜之间在俄罗斯各地区击落1214架乌克兰无人机。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518998"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "财联社10月29日电，汇丰银行将梅赛德斯-奔驰目标价从61欧元下调至56欧元。",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518993",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下调",
+      "matched_by": "none",
+      "evidence": {
+        "title": "财联社10月29日电，汇丰银行将梅赛德斯-奔驰目标价从61欧元下调至56欧元。",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518993"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下调"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下调"
+      ],
+      "stale": false
+    },
+    {
+      "title": "沪市1091家公司披露三季报 超八成公司实现盈利",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518992",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：盈利",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "沪市1091家公司披露三季报 超八成公司实现盈利",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518992"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：盈利",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：盈利"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "“新债王”质疑美联储落后于形势：除非油价明显回落 否则12月必须加息",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518991",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：回落",
+      "matched_by": "none",
+      "evidence": {
+        "title": "“新债王”质疑美联储落后于形势：除非油价明显回落 否则12月必须加息",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518991"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：回落"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：回落"
+      ],
+      "stale": false
+    },
+    {
+      "title": "【盘中宝】商业航天制造需求全面升级，这类技术变成“供应链里的默认选项”，这家公司相关产品可应用于商业航天领域",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518983",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "【盘中宝】商业航天制造需求全面升级，这类技术变成“供应链里的默认选项”，这家公司相关产品可应用于商业航天领域",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518983"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 1,
+      "stocks": [
+        {
+          "code": "000061",
+          "name": "产 品",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "俄罗斯Yandex因数据中心遭袭击撤回2026年业绩指引",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518990",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "俄罗斯Yandex因数据中心遭袭击撤回2026年业绩指引",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518990"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "美银证券：升中国石油股份目标价至12港元",
+      "source": "财联社电报",
+      "published_at": "2026-10-29T14:47:30+08:00",
+      "time": "2026-10-29T14:47:30+08:00",
+      "url": "https://www.cls.cn/detail/2518986",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "美银证券：升中国石油股份目标价至12港元",
+        "digest": "",
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "url": "https://www.cls.cn/detail/2518986"
+      },
+      "provenance": {
+        "source": "财联社电报",
+        "published_at": "2026-10-29T14:47:30+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [
+        {
+          "code": "601857",
+          "name": "中国石油",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "channel": "财联社电报",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 1,
+      "stocks": [
+        {
+          "code": "601857",
+          "name": "中国石油",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.2
+        }
+      ],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "山东印发高端化工产业高质量发展行动计划",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189637",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "山东印发高端化工产业高质量发展行动计划",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189637"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "华尔街见闻",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施。",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189634",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "台积电以约12亿美元收购友达光电台中工厂及相关设施。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189634"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "华尔街见闻",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "碳酸锂期货失守9万元/吨关口",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189633",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "碳酸锂期货失守9万元/吨关口",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189633"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "华尔街见闻",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "大众汽车第三季度营收752.8亿欧元，预估781.9亿欧元。\n\n第三季度营业损失58.6亿欧元，预估亏损56.7亿欧元。",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189631",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：亏损、亏损",
+      "matched_by": "board",
+      "evidence": {
+        "title": "大众汽车第三季度营收752.8亿欧元，预估781.9亿欧元。\n\n第三季度营业损失58.6亿欧元，预估亏损56.7亿欧元。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189631"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "华尔街见闻",
+      "themes": [
+        "汽车"
+      ],
+      "confidence": 0.65,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：亏损、亏损"
+      ],
+      "stale": false
+    },
+    {
+      "title": "创业板指跌超4%，沪指跌0.85%，深成指跌2.72%。算力硬件、半导体芯片、消费电子、软件开发等方向跌幅居前，沪深京三市下跌个股超4700只。",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189630",
+      "verdict": "利空",
+      "sentiment": "neg",
+      "direction": "bear",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "公开标题/摘要命中利空词：下跌",
+      "matched_by": "stock_name",
+      "evidence": {
+        "title": "创业板指跌超4%，沪指跌0.85%，深成指跌2.72%。算力硬件、半导体芯片、消费电子、软件开发等方向跌幅居前，沪深京三市下跌个股超4700只。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189630"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [
+        {
+          "code": "000514",
+          "name": "开 发",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "channel": "华尔街见闻",
+      "themes": [
+        "软件开发",
+        "半导体",
+        "消费电子"
+      ],
+      "confidence": 0.55,
+      "match_detail": "公开标题/摘要命中可核验代码、名称或板块",
+      "n_stocks": 1,
+      "stocks": [
+        {
+          "code": "000514",
+          "name": "开 发",
+          "evidence": "public_title_name",
+          "matched_by": "stock_name",
+          "confidence": 0.55
+        }
+      ],
+      "status": "ok",
+      "reasons": [
+        "unknown: 未命中可核验利好词",
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "公开标题/摘要命中利空词：下跌"
+      ],
+      "stale": false
+    },
+    {
+      "title": "阿迪达斯第三季度营收72.5亿欧元，同比增长9.4%，预估72.5亿欧元。\n\n第三季度欧洲营收22.4亿欧元，预估23.8亿欧元。\n\n第三季度毛利率54.3％，预估54.3％。\n\n第三季度营业利润10.1亿欧元，预估10.1亿欧元。\n\n第三季度营业利益率13.9％，预估12.5％。\n\n第三季度净利润7.06亿欧元，预估5.647亿欧元。\n\n阿迪达斯仍然预测全年营业利润大约25亿欧元，市场预估24.7亿欧元。",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189628",
+      "verdict": "利好",
+      "sentiment": "pos",
+      "direction": "bull",
+      "positive_reason": "公开标题/摘要命中利好词：增长",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "阿迪达斯第三季度营收72.5亿欧元，同比增长9.4%，预估72.5亿欧元。\n\n第三季度欧洲营收22.4亿欧元，预估23.8亿欧元。\n\n第三季度毛利率54.3％，预估54.3％。\n\n第三季度营业利润10.1亿欧元，预估10.1亿欧元。\n\n第三季度营业利益率13.9％，预估12.5％。\n\n第三季度净利润7.06亿欧元，预估5.647亿欧元。\n\n阿迪达斯仍然预测全年营业利润大约25亿欧元，市场预估24.7亿欧元。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189628"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "华尔街见闻",
+      "themes": [],
+      "confidence": 0.55,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "公开标题/摘要命中利好词：增长",
+        "unknown: 未命中可核验利空词"
+      ],
+      "benefit_reasons": [
+        "公开标题/摘要命中利好词：增长"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    },
+    {
+      "title": "日经225指数收涨1.1%，报64659.47点。\n\n日本东证指数收涨0.3%，报4003.28点。\n\n韩国首尔综指收跌1.2%，报5937.66点。",
+      "source": "华尔街见闻",
+      "published_at": "2026-10-29T14:43:46+08:00",
+      "time": "2026-10-29T14:43:46+08:00",
+      "url": "https://wallstreetcn.com/livenews/3189632",
+      "verdict": "中性",
+      "sentiment": "neu",
+      "direction": "neutral",
+      "positive_reason": "unknown: 未命中可核验利好词",
+      "negative_reason": "unknown: 未命中可核验利空词",
+      "matched_by": "none",
+      "evidence": {
+        "title": "日经225指数收涨1.1%，报64659.47点。\n\n日本东证指数收涨0.3%，报4003.28点。\n\n韩国首尔综指收跌1.2%，报5937.66点。",
+        "digest": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "url": "https://wallstreetcn.com/livenews/3189632"
+      },
+      "provenance": {
+        "source": "华尔街见闻",
+        "published_at": "2026-10-29T14:43:46+08:00",
+        "input_freshness": "collector_snapshot",
+        "stale": false
+      },
+      "evidence_status": "sufficient",
+      "affected_stocks": [],
+      "channel": "华尔街见闻",
+      "themes": [],
+      "confidence": 0.2,
+      "match_detail": "未找到可核验个股或板块证据",
+      "n_stocks": 0,
+      "stocks": [],
+      "status": "ok",
+      "reasons": [
+        "未命中预定义方向词，保持中性，不作利好或利空推断"
+      ],
+      "benefit_reasons": [
+        "unknown: 未命中可核验利好词"
+      ],
+      "harm_reasons": [
+        "unknown: 未命中可核验利空词"
+      ],
+      "stale": false
+    }
+  ],
+  "meta": {
+    "public_sources": [
+      "eastmoney_724",
+      "stocks-ai-view:data/api/news.json snapshot fallback"
+    ],
+    "source_registry_count": 190,
+    "news_source_registry_count": 13,
+    "legacy_contract": "impacts[].stocks and impacts[].direction retained",
+    "evidence_policy": "missing source/time or stock evidence remains insufficient_data"
+  }
+}

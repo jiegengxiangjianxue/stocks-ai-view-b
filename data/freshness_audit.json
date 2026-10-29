@@ -1,0 +1,390 @@
+{
+ "ts": "2026-10-29T14:57:06+08:00",
+ "engine": "audit_freshness.py",
+ "n_files": 40,
+ "n_stale": 16,
+ "n_unreadable": 0,
+ "n_no_ts": 1,
+ "n_unknown_tier": 12,
+ "by_tier": {
+  "daily": 0,
+  "unknown": 0,
+  "weekly": 0,
+  "intraday": 0,
+  "realtime": 0,
+  "static": 0
+ },
+ "files": [
+  {
+   "file": "ai_pick_v4.json",
+   "tier": "daily",
+   "ts": "2026-10-14T17:59:10+08:00",
+   "age_hours": 357.0,
+   "effective_age_hours": 357.0,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "ai_picks.json",
+   "tier": "daily",
+   "ts": "2026-10-29T05:44:37+08:00",
+   "age_hours": 9.2,
+   "effective_age_hours": 9.2,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "all_sources.json",
+   "tier": "daily",
+   "ts": "2026-10-29T05:44:05+08:00",
+   "age_hours": 9.2,
+   "effective_age_hours": 9.2,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "anomaly_report.json",
+   "tier": "unknown",
+   "ts": "2026-10-14T18:03:08+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "ban_pick.json",
+   "tier": "daily",
+   "ts": "2026-10-14T18:00:27+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "ban_prob.json",
+   "tier": "daily",
+   "ts": "2026-10-14T18:00:15+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "ban_prob_balanced.json",
+   "tier": "unknown",
+   "ts": "2026-10-14T18:03:03+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "bulk_kline_1.json",
+   "tier": "unknown",
+   "ts": "2026-10-25T06:05:52+08:00",
+   "age_hours": 104.9,
+   "effective_age_hours": 104.9,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "concept_map.json",
+   "tier": "unknown",
+   "ts": "2026-10-29T14:57:04+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "decision.json",
+   "tier": "daily",
+   "ts": "2026-10-14T18:00:15+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "edge_report.json",
+   "tier": "weekly",
+   "ts": "2026-10-14T18:03:04+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 192
+  },
+  {
+   "file": "engine_v5.json",
+   "tier": "daily",
+   "ts": "2026-10-14T17:59:03+08:00",
+   "age_hours": 357.0,
+   "effective_age_hours": 357.0,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "enrich.json",
+   "tier": "intraday",
+   "ts": "2026-10-29T05:43:48+08:00",
+   "age_hours": 9.2,
+   "effective_age_hours": 4.2,
+   "status": "STALE",
+   "threshold_h": 3
+  },
+  {
+   "file": "flow_divergence.json",
+   "tier": "unknown",
+   "ts": "2026-10-14T18:00:34+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "global_fx.json",
+   "tier": "unknown",
+   "ts": "2026-10-28T21:31:56+08:00",
+   "age_hours": 17.4,
+   "effective_age_hours": 17.4,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "global_markets.json",
+   "tier": "realtime",
+   "ts": "2026-10-28T21:36:38+08:00",
+   "age_hours": 17.3,
+   "effective_age_hours": 4.2,
+   "status": "STALE",
+   "threshold_h": 0.5
+  },
+  {
+   "file": "hot_impact.json",
+   "tier": "realtime",
+   "ts": "2026-10-29T05:43:23.914786+08:00",
+   "age_hours": 9.2,
+   "effective_age_hours": 4.2,
+   "status": "STALE",
+   "threshold_h": 0.5
+  },
+  {
+   "file": "hot_news.json",
+   "tier": "daily",
+   "ts": "2026-10-29T14:57:02+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "hot_themes.json",
+   "tier": "daily",
+   "ts": "2026-10-29T14:57:06+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "industry_stocks.json",
+   "tier": "unknown",
+   "ts": "2026-10-29T14:57:04+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "kline_sim.json",
+   "tier": "weekly",
+   "ts": "2026-10-14T18:00:34+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 192
+  },
+  {
+   "file": "klineshare_hq.json",
+   "tier": "unknown",
+   "ts": "2026-10-28T21:36:38+08:00",
+   "age_hours": 17.3,
+   "effective_age_hours": 17.3,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "mainline.json",
+   "tier": "daily",
+   "ts": "2026-10-29T14:57:06+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "market_now.json",
+   "tier": "realtime",
+   "ts": "2026-10-29T05:43:33+08:00",
+   "age_hours": 9.2,
+   "effective_age_hours": 4.2,
+   "status": "STALE",
+   "threshold_h": 0.5
+  },
+  {
+   "file": "market_phase.json",
+   "tier": "daily",
+   "ts": "2026-10-14T17:58:29",
+   "age_hours": 357.0,
+   "effective_age_hours": 357.0,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "multidim.json",
+   "tier": "daily",
+   "ts": "2026-10-14T18:00:15+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "news_digest.json",
+   "tier": "daily",
+   "ts": "2026-10-28T21:31:56+08:00",
+   "age_hours": 17.4,
+   "effective_age_hours": 17.4,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "news_extra.json",
+   "tier": "daily",
+   "ts": "2026-10-29T14:56:53+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "news_impact.json",
+   "tier": "unknown",
+   "ts": "2026-10-29T14:57:04+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "news_transmission.json",
+   "tier": "daily",
+   "ts": "2026-10-29T14:57:06+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "OK",
+   "threshold_h": 30
+  },
+  {
+   "file": "realtime_minute.json",
+   "tier": "realtime",
+   "ts": "2026-10-28T21:29:35+08:00",
+   "age_hours": 17.5,
+   "effective_age_hours": 4.2,
+   "status": "STALE",
+   "threshold_h": 0.5
+  },
+  {
+   "file": "recent_mainlines.json",
+   "tier": "unknown",
+   "ts": "2026-10-29T14:57:06+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "risk_plan.json",
+   "tier": "daily",
+   "ts": null,
+   "status": "NO_TS",
+   "note": "无可解析生成时间, 无法判断新鲜度"
+  },
+  {
+   "file": "scenario.json",
+   "tier": "daily",
+   "ts": "2026-10-14T18:03:04+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "self_reflect.json",
+   "tier": "daily",
+   "ts": "2026-10-14T18:03:04+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "STALE",
+   "threshold_h": 30
+  },
+  {
+   "file": "shard_b.json",
+   "tier": "intraday",
+   "ts": "2026-10-29T14:56:41+08:00",
+   "age_hours": 0.0,
+   "effective_age_hours": 0.0,
+   "status": "OK",
+   "threshold_h": 3
+  },
+  {
+   "file": "signal_audit.json",
+   "tier": "unknown",
+   "ts": "2026-10-14T18:03:04+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  },
+  {
+   "file": "sources_registry.json",
+   "tier": "static",
+   "ts": "2026-10-28T21:30:41+08:00",
+   "status": "STATIC",
+   "note": "静态索引不以生成时间衡量"
+  },
+  {
+   "file": "stock_names.json",
+   "tier": "static",
+   "ts": null,
+   "status": "STATIC",
+   "note": "静态索引不以生成时间衡量"
+  },
+  {
+   "file": "validation_report.json",
+   "tier": "unknown",
+   "ts": "2026-10-14T18:03:08+08:00",
+   "age_hours": 356.9,
+   "effective_age_hours": 356.9,
+   "status": "UNKNOWN_TIER",
+   "threshold_h": null
+  }
+ ],
+ "meta": {
+  "tiers": {
+   "realtime": "15分钟内",
+   "intraday": "2小时内",
+   "daily": "26小时内",
+   "weekly": "8天内",
+   "static": "无要求 (映射表/清单)"
+  },
+  "thresholds_h": {
+   "realtime": 0.5,
+   "intraday": 3,
+   "daily": 30,
+   "weekly": 192
+  },
+  "why": "2026-10-16 用户反馈数据过时, 排查发现采集只在盘中跑 + nightly-backfill 一周一次 + GH Actions schedule 静默停跑。本脚本让陈旧可被自动发现, 不依赖用户反馈。",
+  "caveat": "非交易时段 (周末/凌晨) 采集类文件必然变旧, 这是预期; 判 STALE 只说明「超过该档位的阈值」, 需结合是否交易时段看。盘后/周末看 engine_v5 等日更文件为昨日数据是正常的, 真正的 STALE 是「交易日盘中仍不更新」。"
+ }
+}

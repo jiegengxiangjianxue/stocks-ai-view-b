@@ -1,0 +1,300 @@
+{
+ "ts": "2026-10-29T14:59:16+08:00",
+ "engine": "build_analysis_manifest.py",
+ "trading_date": "20261029",
+ "session_state": "unknown",
+ "pipeline_status": "partial",
+ "stale_count": 7,
+ "missing_count": 17,
+ "no_timestamp_count": 0,
+ "stale_files": [
+  "market_now.json",
+  "hot_impact.json",
+  "ai_pick_v4.json",
+  "engine_v5.json",
+  "multidim.json",
+  "decision.json",
+  "kline_sim.json"
+ ],
+ "missing_files": [
+  "latest.json",
+  "overseas_linkage.json",
+  "overseas_impact.json",
+  "premarket_picks.json",
+  "midday_picks.json",
+  "today_picks.json",
+  "prediction_bundle.json",
+  "trend_strength.json",
+  "auction_engine.json",
+  "bull_bear_debate.json",
+  "pool_audit.json",
+  "horizon_features.json",
+  "daily_brief.json",
+  "ai_review.json",
+  "reflect_latest.json",
+  "winrate_matrix.json",
+  "walkforward.json"
+ ],
+ "no_timestamp_files": [],
+ "groups": {
+  "market_snapshot": {
+   "status": "missing",
+   "files": {
+    "latest.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 2,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "market_now.json": {
+     "ts": "2026-10-29T05:43:33+08:00",
+     "age_hours": 9.26,
+     "threshold_hours": 2,
+     "status": "stale",
+     "size_bytes": 31815
+    }
+   }
+  },
+  "global_markets": {
+   "status": "missing",
+   "files": {
+    "global_markets.json": {
+     "ts": "2026-10-29T14:57:11+08:00",
+     "age_hours": 0.03,
+     "threshold_hours": 2,
+     "status": "fresh",
+     "size_bytes": 11933
+    },
+    "global_kline.json": {
+     "ts": "2026-10-29T14:57:36+08:00",
+     "age_hours": 0.03,
+     "threshold_hours": 2,
+     "status": "fresh",
+     "size_bytes": 628888
+    },
+    "overseas_linkage.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 2,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "overseas_impact.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 2,
+     "status": "missing",
+     "size_bytes": 0
+    }
+   }
+  },
+  "hot_news": {
+   "status": "stale",
+   "files": {
+    "hot_news.json": {
+     "ts": "2026-10-29T14:57:02+08:00",
+     "age_hours": 0.04,
+     "threshold_hours": 4,
+     "status": "fresh",
+     "size_bytes": 116867
+    },
+    "news_extra.json": {
+     "ts": "2026-10-29T14:56:53+08:00",
+     "age_hours": 0.04,
+     "threshold_hours": 4,
+     "status": "fresh",
+     "size_bytes": 73022
+    },
+    "hot_themes.json": {
+     "ts": "2026-10-29T14:57:06+08:00",
+     "age_hours": 0.04,
+     "threshold_hours": 4,
+     "status": "fresh",
+     "size_bytes": 8082
+    },
+    "mainline.json": {
+     "ts": "2026-10-29T14:57:06+08:00",
+     "age_hours": 0.04,
+     "threshold_hours": 4,
+     "status": "fresh",
+     "size_bytes": 6414
+    },
+    "recent_mainlines.json": {
+     "ts": "2026-10-29T14:57:06+08:00",
+     "age_hours": 0.04,
+     "threshold_hours": 4,
+     "status": "fresh",
+     "size_bytes": 7419
+    },
+    "hot_impact.json": {
+     "ts": "2026-10-29T05:43:23.914786+08:00",
+     "age_hours": 9.26,
+     "threshold_hours": 4,
+     "status": "stale",
+     "size_bytes": 1631
+    }
+   }
+  },
+  "picks": {
+   "status": "missing",
+   "files": {
+    "premarket_picks.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "midday_picks.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "ai_pick_v4.json": {
+     "ts": "2026-10-14T17:59:10+08:00",
+     "age_hours": 357.0,
+     "threshold_hours": 8,
+     "status": "stale",
+     "size_bytes": 6965
+    },
+    "today_picks.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "prediction_bundle.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    }
+   }
+  },
+  "engines": {
+   "status": "missing",
+   "files": {
+    "engine_v5.json": {
+     "ts": "2026-10-14T17:59:03+08:00",
+     "age_hours": 357.0,
+     "threshold_hours": 8,
+     "status": "stale",
+     "size_bytes": 156080
+    },
+    "multidim.json": {
+     "ts": "2026-10-14T18:00:15+08:00",
+     "age_hours": 356.98,
+     "threshold_hours": 8,
+     "status": "stale",
+     "size_bytes": 40172
+    },
+    "decision.json": {
+     "ts": "2026-10-14T18:00:15+08:00",
+     "age_hours": 356.98,
+     "threshold_hours": 8,
+     "status": "stale",
+     "size_bytes": 12330
+    },
+    "trend_strength.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "auction_engine.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "bull_bear_debate.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "pool_audit.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "horizon_features.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 8,
+     "status": "missing",
+     "size_bytes": 0
+    }
+   }
+  },
+  "review": {
+   "status": "missing",
+   "files": {
+    "daily_brief.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 30,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "ai_review.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 30,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "reflect_latest.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 30,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "winrate_matrix.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 30,
+     "status": "missing",
+     "size_bytes": 0
+    },
+    "kline_sim.json": {
+     "ts": "2026-10-14T18:00:34+08:00",
+     "age_hours": 356.98,
+     "threshold_hours": 30,
+     "status": "stale",
+     "size_bytes": 1762
+    },
+    "walkforward.json": {
+     "ts": null,
+     "age_hours": null,
+     "threshold_hours": 30,
+     "status": "missing",
+     "size_bytes": 0
+    }
+   }
+  }
+ },
+ "meta": {
+  "purpose": "统一页面数据与算法引擎版本状态, 防止局部更新造成旧数据静默展示",
+  "thresholds_hours": {
+   "market_snapshot": 2,
+   "global_markets": 2,
+   "hot_news": 4,
+   "picks": 8,
+   "engines": 8,
+   "review": 30
+  },
+  "caveat": "非交易时段的市场快照可合法归属上一交易日; stale 表示超过该组期望刷新频率"
+ }
+}
