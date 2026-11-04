@@ -1,8 +1,8 @@
 {
- "ts": "2026-11-04T06:14:03+08:00",
+ "ts": "2026-11-04T15:26:52+08:00",
  "engine": "news_transmission v1 (消息传导: 坏消息利好谁)",
- "n_input": 476,
- "n_transmissions": 7,
+ "n_input": 475,
+ "n_transmissions": 3,
  "n_rules": 16,
  "rules": [
   {
@@ -79,165 +79,34 @@
  "caveat": "传导关系是规则先验, 非实证; 行为标签要求新闻与资金同交易日, 缺失不判定。Research reference only, not investment advice.",
  "transmissions": [
   {
-   "title": "【每日收评】创业板指跌近3%，中际旭创重挫12%，多只宽基ETF放量破百亿",
-   "source": "财联社热门",
-   "time": "2026-11-04T06:13:49+08:00",
-   "url": "https://www.cls.cn/detail/2523863",
-   "transmission_id": "market_broad_down",
-   "label": "大盘普跌",
-   "direct_bear": [],
-   "direct_bull": [],
-   "inverse_bull": [
-    {
-     "sector": "银行",
-     "stocks": [
-      "000001",
-      "601288"
-     ]
-    }
-   ],
-   "inverse_bear": [],
-   "hedge": [
-    {
-     "sector": "银行",
-     "stocks": [
-      "000001",
-      "601288"
-     ]
-    }
-   ],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-04",
-    "matched_codes": []
-   },
-   "note": "普跌时资金流向低估值防御; 逆势活跃的板块 (如 PCB/白酒) 是当日主线"
-  },
-  {
-   "title": "俄女高官访华就日本军事化加速发声",
-   "source": "今日头条",
-   "time": "2026-11-04T05:47:17+08:00",
-   "url": "https://www.toutiao.com/trending/7702921083061616676/",
+   "title": "特朗普称对伊朗战争是选举失利原因",
+   "source": "微博热搜",
+   "time": "2026-11-04T15:18:29+08:00",
+   "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%98%AF%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top",
    "transmission_id": "geopolitics",
    "label": "地缘冲突",
    "direct_bear": [],
-   "direct_bull": [],
+   "direct_bull": [
+    {
+     "sector": "军工",
+     "stocks": [
+      "688629"
+     ]
+    }
+   ],
    "inverse_bull": [],
    "inverse_bear": [
     {
      "sector": "航空",
      "stocks": [
-      "002928",
-      "302132"
-     ]
-    },
-    {
-     "sector": "旅游",
-     "stocks": [
-      "603402"
-     ]
-    }
-   ],
-   "hedge": [],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-04",
-    "matched_codes": []
-   }
-  },
-  {
-   "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
-   "source": "澎湃新闻",
-   "time": "2026-11-04T06:13:57+08:00",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34382628",
-   "transmission_id": "geopolitics",
-   "label": "地缘冲突",
-   "direct_bear": [],
-   "direct_bull": [],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空",
-     "stocks": [
-      "002928",
-      "302132"
-     ]
-    },
-    {
-     "sector": "旅游",
-     "stocks": [
-      "603402"
-     ]
-    }
-   ],
-   "hedge": [],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-04",
-    "matched_codes": []
-   }
-  },
-  {
-   "title": "警方介入调查“九寨沟景区游客冲突事件”，九寨沟管理局：事发后有工作人员到场处理并报警",
-   "source": "澎湃新闻",
-   "time": "2026-11-04T06:13:57+08:00",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34394511",
-   "transmission_id": "geopolitics",
-   "label": "地缘冲突",
-   "direct_bear": [],
-   "direct_bull": [],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空",
-     "stocks": [
-      "002928",
-      "302132"
-     ]
-    },
-    {
-     "sector": "旅游",
-     "stocks": [
-      "603402"
-     ]
-    }
-   ],
-   "hedge": [],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-04",
-    "matched_codes": []
-   }
-  },
-  {
-   "title": "WTI 12月原油期货收跌0.40美元，跌幅超过0.41%，报96.09美元/桶。\n\n布伦特1月原油期货收跌1.17美元",
-   "source": "wallstreetcn",
-   "time": "2026-11-04T03:33:32+08:00",
-   "url": "https://wallstreetcn.com/live/3193553",
-   "transmission_id": "oil_up",
-   "label": "油价上涨",
-   "direct_bear": [],
-   "direct_bull": [],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空机场",
-     "stocks": [
+      "600391",
       "002928"
      ]
     },
     {
-     "sector": "化工",
+     "sector": "旅游",
      "stocks": [
-      "603382"
+      "000524"
      ]
     }
    ],
@@ -251,27 +120,34 @@
    }
   },
   {
-   "title": "受战争与阿美费用影响，沙特预算赤字翻倍有余",
-   "source": "wallstreetcn",
-   "time": "2026-11-04T04:13:14+08:00",
-   "url": "https://wallstreetcn.com/live/3193563",
+   "title": "俄女高官访华就日本军事化加速发声",
+   "source": "今日头条",
+   "time": "2026-11-04T15:03:25+08:00",
+   "url": "https://www.toutiao.com/trending/7702921083061616676/",
    "transmission_id": "geopolitics",
    "label": "地缘冲突",
    "direct_bear": [],
-   "direct_bull": [],
+   "direct_bull": [
+    {
+     "sector": "军工",
+     "stocks": [
+      "688629"
+     ]
+    }
+   ],
    "inverse_bull": [],
    "inverse_bear": [
     {
      "sector": "航空",
      "stocks": [
-      "002928",
-      "302132"
+      "600391",
+      "002928"
      ]
     },
     {
      "sector": "旅游",
      "stocks": [
-      "603402"
+      "000524"
      ]
     }
    ],
@@ -285,31 +161,37 @@
    }
   },
   {
-   "title": "欧洲央行管委Sleijpen：伊朗冲击比之前想象的更加顽固。\n\n长期价格预期持稳，短期价格预期上升。\n\n紧缩政策正在放缓",
+   "title": "伊朗议长评美中期选举：美国人民对战争说“不”",
    "source": "wallstreetcn",
-   "time": "2026-11-04T02:27:42+08:00",
-   "url": "https://wallstreetcn.com/live/3193532",
-   "transmission_id": "rate_hike",
-   "label": "加息/紧缩",
+   "time": "2026-11-04T14:18:30+08:00",
+   "url": "https://wallstreetcn.com/live/3193903",
+   "transmission_id": "geopolitics",
+   "label": "地缘冲突",
    "direct_bear": [],
-   "direct_bull": [],
-   "inverse_bull": [
+   "direct_bull": [
     {
-     "sector": "银行",
+     "sector": "军工",
      "stocks": [
-      "000001",
-      "601288"
-     ]
-    },
-    {
-     "sector": "保险",
-     "stocks": [
-      "601601",
-      "002029"
+      "688629"
      ]
     }
    ],
-   "inverse_bear": [],
+   "inverse_bull": [],
+   "inverse_bear": [
+    {
+     "sector": "航空",
+     "stocks": [
+      "600391",
+      "002928"
+     ]
+    },
+    {
+     "sector": "旅游",
+     "stocks": [
+      "000524"
+     ]
+    }
+   ],
    "hedge": [],
    "flow_evidence": {
     "status": "insufficient",
