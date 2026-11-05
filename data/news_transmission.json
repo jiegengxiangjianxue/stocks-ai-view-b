@@ -1,8 +1,8 @@
 {
- "ts": "2026-11-05T06:28:11+08:00",
+ "ts": "2026-11-05T15:51:34+08:00",
  "engine": "news_transmission v1 (消息传导: 坏消息利好谁)",
- "n_input": 478,
- "n_transmissions": 6,
+ "n_input": 475,
+ "n_transmissions": 4,
  "n_rules": 16,
  "rules": [
   {
@@ -79,10 +79,10 @@
  "caveat": "传导关系是规则先验, 非实证; 行为标签要求新闻与资金同交易日, 缺失不判定。Research reference only, not investment advice.",
  "transmissions": [
   {
-   "title": "媒体评九寨沟游客冲突处理结果",
-   "source": "今日头条",
-   "time": "2026-11-05T06:07:50+08:00",
-   "url": "https://www.toutiao.com/trending/7704098013299393034/",
+   "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
+   "source": "财联社热门",
+   "time": "2026-11-05T15:39:11+08:00",
+   "url": "https://www.cls.cn/detail/2525608",
    "transmission_id": "geopolitics",
    "label": "地缘冲突",
    "direct_bear": [],
@@ -90,7 +90,7 @@
     {
      "sector": "军工",
      "stocks": [
-      "688629"
+      "688788"
      ]
     }
    ],
@@ -99,14 +99,14 @@
     {
      "sector": "航空",
      "stocks": [
-      "600391",
-      "002928"
+      "002928",
+      "002389"
      ]
     },
     {
      "sector": "旅游",
      "stocks": [
-      "000524"
+      "300859"
      ]
     }
    ],
@@ -120,10 +120,10 @@
    }
   },
   {
-   "title": "伊朗议长：美选举结果表明对战争说不",
-   "source": "今日头条",
-   "time": "2026-11-05T06:07:50+08:00",
-   "url": "https://www.toutiao.com/trending/7704196344864620598/",
+   "title": "外交部：日本“再军事化”狂飙突进 国际社会必须高度警惕",
+   "source": "财联社电报",
+   "time": "2026-11-05T15:27:15+08:00",
+   "url": "https://www.cls.cn/detail/2526156",
    "transmission_id": "geopolitics",
    "label": "地缘冲突",
    "direct_bear": [],
@@ -131,7 +131,7 @@
     {
      "sector": "军工",
      "stocks": [
-      "688629"
+      "688788"
      ]
     }
    ],
@@ -140,14 +140,14 @@
     {
      "sector": "航空",
      "stocks": [
-      "600391",
-      "002928"
+      "002928",
+      "002389"
      ]
     },
     {
      "sector": "旅游",
      "stocks": [
-      "000524"
+      "300859"
      ]
     }
    ],
@@ -161,133 +161,10 @@
    }
   },
   {
-   "title": "美国总统特朗普：美国副总统万斯的帖子不错，我知道万斯对战争持何种看法。",
-   "source": "wallstreetcn",
-   "time": "2026-11-05T02:20:35+08:00",
-   "url": "https://wallstreetcn.com/live/3194446",
-   "transmission_id": "geopolitics",
-   "label": "地缘冲突",
-   "direct_bear": [],
-   "direct_bull": [
-    {
-     "sector": "军工",
-     "stocks": [
-      "688629"
-     ]
-    }
-   ],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空",
-     "stocks": [
-      "600391",
-      "002928"
-     ]
-    },
-    {
-     "sector": "旅游",
-     "stocks": [
-      "000524"
-     ]
-    }
-   ],
-   "hedge": [],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-05",
-    "matched_codes": []
-   }
-  },
-  {
-   "title": "美国总统特朗普：我的确觉得发动伊朗战争是值得的。\n\n伊朗问题是不得不做的，我们将继续这样做。\n\n我不会染指共和党的众议院",
-   "source": "wallstreetcn",
-   "time": "2026-11-05T02:10:50+08:00",
-   "url": "https://wallstreetcn.com/live/3194442",
-   "transmission_id": "geopolitics",
-   "label": "地缘冲突",
-   "direct_bear": [],
-   "direct_bull": [
-    {
-     "sector": "军工",
-     "stocks": [
-      "688629"
-     ]
-    }
-   ],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空",
-     "stocks": [
-      "600391",
-      "002928"
-     ]
-    },
-    {
-     "sector": "旅游",
-     "stocks": [
-      "000524"
-     ]
-    }
-   ],
-   "hedge": [],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-05",
-    "matched_codes": []
-   }
-  },
-  {
-   "title": "周四你需要知道的隔夜全球要闻：美众议院民主党领袖誓言将撤销特朗普关税、结束伊朗战争，油价重挫超8%；美股走势分化，大型科技股飙升，存储、光通信等AI概念下挫",
-   "source": "cls",
-   "time": "2026-11-05T06:18:50+08:00",
-   "url": "https://www.cls.cn/detail/2525639",
-   "transmission_id": "geopolitics",
-   "label": "地缘冲突",
-   "direct_bear": [],
-   "direct_bull": [
-    {
-     "sector": "军工",
-     "stocks": [
-      "688629"
-     ]
-    }
-   ],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空",
-     "stocks": [
-      "600391",
-      "002928"
-     ]
-    },
-    {
-     "sector": "旅游",
-     "stocks": [
-      "000524"
-     ]
-    }
-   ],
-   "hedge": [],
-   "flow_evidence": {
-    "status": "insufficient",
-    "source": null,
-    "trade_date": null,
-    "event_date": "2026-11-05",
-    "matched_codes": []
-   }
-  },
-  {
-   "title": "布伦特原油期货跌幅扩大至10%，逼近93美元。WTI原油日内跌幅达9.0%，报87.38美元/桶。",
-   "source": "wallstreetcn",
-   "time": "2026-11-05T01:41:40+08:00",
-   "url": "https://wallstreetcn.com/live/3194427",
+   "title": "发生了什么？布伦特原油突然跳水暴跌10%",
+   "source": "财联社热门",
+   "time": "2026-11-05T15:39:11+08:00",
+   "url": "https://www.cls.cn/detail/2525588",
    "transmission_id": "oil_up",
    "label": "油价上涨",
    "direct_bear": [],
@@ -301,6 +178,33 @@
      ]
     }
    ],
+   "hedge": [],
+   "flow_evidence": {
+    "status": "insufficient",
+    "source": null,
+    "trade_date": null,
+    "event_date": "2026-11-05",
+    "matched_codes": []
+   }
+  },
+  {
+   "title": "金价连收4000、4100美元两道大关，为何仅被视作“修复”？机构：加息预期尚未回落",
+   "source": "财联社热门",
+   "time": "2026-11-05T15:39:11+08:00",
+   "url": "https://www.cls.cn/detail/2525931",
+   "transmission_id": "rate_hike",
+   "label": "加息/紧缩",
+   "direct_bear": [],
+   "direct_bull": [],
+   "inverse_bull": [
+    {
+     "sector": "保险",
+     "stocks": [
+      "601336"
+     ]
+    }
+   ],
+   "inverse_bear": [],
    "hedge": [],
    "flow_evidence": {
     "status": "insufficient",
