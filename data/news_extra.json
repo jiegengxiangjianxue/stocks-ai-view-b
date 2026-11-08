@@ -1,1142 +1,152 @@
 {
- "ts": "2026-11-08T04:41:27+08:00",
+ "ts": "2026-11-08T15:10:01+08:00",
  "engine": "collect_news_extra v1",
- "n_items": 110,
+ "n_items": 20,
  "per_source": {
   "zaobao": 0,
-  "wallstreetcn": 90,
+  "wallstreetcn": 0,
   "cls": 20
  },
  "items": [
   {
-   "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
-   "summary": "美国中央司令部司令库珀当地时间11月7日下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。据介绍，该特遣队由约20名文职及军事人员组成，驻扎在美国佛罗里达州坦帕市。 (央视新闻)",
-   "url": "https://wallstreetcn.com/live/3196432",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T21:59:56+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "国金证券：核心蓝筹股的估值水平已经处于历史偏低水平",
-   "summary": "国金证券首席策略官、副所长牟一凌接受券商中国记者采访时表示，9月中下旬以来，A股市场表现承压，外部不确定性加剧是本轮回调的核心扰动。当前核心蓝筹股的估值水平已经处于历史偏低水平，尤其成长类大盘蓝筹性价比凸显。",
-   "url": "https://wallstreetcn.com/live/3196430",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T21:31:48+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "英伟达CEO女儿取消原定访韩计划。（韩联社）",
-   "summary": "英伟达CEO女儿取消原定访韩计划。（韩联社）",
-   "url": "https://wallstreetcn.com/live/3196428",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T21:25:06+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。",
-   "summary": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。\n\n截至10月28日，第四季度回购了相当于约2,554股A类股的股份。",
-   "url": "https://wallstreetcn.com/live/3196427",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T21:21:48+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。\n\n第三季度净利润221.1亿美元，同比下降28%",
-   "summary": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。\n\n第三季度净利润221.1亿美元，同比下降28%。\n\n第三季度保险承保经营收益13.5亿美元，同比下降43%。\n\n第三季度保险投资经营收益27.3亿美元，同比下降14%。\n\n第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。\n\n第三季度回购约96亿美元股份。",
-   "url": "https://wallstreetcn.com/live/3196425",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T21:02:31+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "10月以来市场震荡调整，基金投顾逆势加仓A股",
-   "summary": "今年10月以来，市场震荡调整，基金投顾逆势加仓A股。据券商统计，A股资产是10月基金投顾组合加仓最多的资产，且这种低位布局的倾向11月以来还在延续。记者获悉，在10月以来的市场波动中，资金逆势流入部分基金投顾机构的组合。",
-   "url": "https://wallstreetcn.com/live/3196424",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T20:22:52+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗革命卫队称已解除导弹射程限制",
-   "summary": "伊朗伊斯兰革命卫队发言人7日说，已解除了伊朗导弹的射程限制，伊朗能在一场“不对称战争”中打击敌人“预想不到的地点”。",
-   "url": "https://wallstreetcn.com/live/3196423",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T20:03:43+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "也门遭沙特空袭致22死30伤",
-   "summary": "也门胡塞武装当地时间7日表示，沙特主导的联军当天对也门萨那以东的巴尼哈希什地区发动空袭，造成多人伤亡。据总台报道员7日中午消息，也门首都萨那传出战机飞过的声音和爆炸声。随后，巴尼哈希什地区的医院负责人透露，截至记者发稿时，该医院已接收22名遇难者和30名伤者。伤亡者包括妇女和儿童。截至目前，沙特方面对此暂无回应。 (央视新闻)",
-   "url": "https://wallstreetcn.com/live/3196422",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T19:44:14+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "多家银行公告赎回优先股，合计规模超2025年全年",
-   "summary": "2026年以来，8家银行公告已赎回或即将赎回优先股，合计规模达1855亿元，超过2025年全年境内银行优先股赎回规模。业内人士介绍，近期大量优先股进入可赎回窗口期，同时永续债发行成本下降，银行通过“赎旧换新”来降低资本补充成本，也就是赎回较高成本的优先股，接续为利率更低的永续债。据悉，优先股是相对于普通股的一种股份类别，作为银行补充资本的重要工具，核心特征是在利润分配和剩余财产分配上优先于普通股。",
-   "url": "https://wallstreetcn.com/live/3196419",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T19:25:13+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "万兴科技：万兴剧厂海外版ReelMate AI已开启公测",
-   "summary": "万兴科技在机构调研时表示，公司在今年3月正式推出新产品万兴剧厂，产品初期聚焦2D漫剧创作，后续逐步拓展至AI真人短剧、AI广告剧、海外AI仿真人剧、AI电影等多元化内容形态，目前产品定位为AI驱动的一站式精品影视内容创作平台，打通剧本创作、分镜生成、素材制作、后期剪辑与团队协作全流程AI影视创作闭环，客户复购率超过85%，以三季度数据年化测算ARR已突破500万美元。目前，万兴剧厂海外版ReelM",
-   "url": "https://wallstreetcn.com/live/3196418",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T19:20:44+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "第七届世界媒体峰会先导片《AI赋能，共赴新程》正式发布",
-   "summary": "第七届世界媒体峰会先导片《AI赋能，共赴新程》11月7日正式发布。影片融合实景拍摄、历史影像与AIGC生成画面，以人工智能时代媒体发展与全球媒体合作为切入点，围绕“技术如何改变媒体、媒体如何坚守新闻本质、全球媒体如何携手应对新时代挑战”展开表达。影片将新华社建社95周年、第七届世界媒体峰会与人工智能时代媒体的新使命融为一体，展现全球媒体携手应对技术变革、共同守护新闻价值、共同开创未来的愿景。（新华",
-   "url": "https://wallstreetcn.com/live/3196402",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T17:57:10+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "中奥企业家委员会首次会议在京举行",
-   "summary": "11月6日，商务部与奥地利联邦经济、能源和旅游部在北京共同主办中国—奥地利企业家委员会首次会议。王文涛部长与哈特曼斯多费尔部长出席会议并致辞，中奥两国政经界代表100余人参会。王文涛表示，今年是中奥建交55周年，在两国领导人战略引领下，中奥双方秉持开放包容理念，推动双边经贸合作取得丰硕成果。双方共同成立中奥企业家委员会，将为两国经济界搭建双向奔赴的桥梁，推动中国“十五五”规划和奥地利《工业战略20",
-   "url": "https://wallstreetcn.com/live/3196399",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T17:31:56+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证",
-   "summary": "当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队将该系统部署在宇树科技的G1人形机器人上进行验证，让机器人将在仿真环境中学到的动作，带到陌生的现实房间中执行。\n\n研究团队还公开了数据生成、模型训练和部署代码，涵盖动作生成、动作跟踪、任务编排以及仿真和",
-   "url": "https://wallstreetcn.com/live/3196397",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T17:24:54+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "SK集团携全栈解决方案亮相进博会",
-   "summary": "在第九届进博会上，SK集团携旗下SK海力士、SK电讯等成员公司，集中展示覆盖AI硬件与软件的全栈解决方案，展现面向未来的AI技术愿景。\n\n其中，SK海力士在展会上集中呈现了覆盖AI数据中心到PC、移动终端的全场景面向AI的存储器解决方案。\n\n在服务器DRAM领域，SK海力士集中展示了多款高性能产品，包括面向大容量应用的256GB DDR5 RDIMM、具备高带宽性能的128GB DDR5 MRDI",
-   "url": "https://wallstreetcn.com/live/3196392",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T17:01:04+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗外长强调不受外部干预情况下建立区域安全机制必要性",
-   "summary": "当地时间7日，伊朗外长阿拉格齐表示，过去48小时内，其分别与阿曼、埃及、约旦、沙特、卡塔尔、巴基斯坦等12个国家外长通电话，回顾并交换了对最新地区和国际局势发展以及美以不断升级其行动所带来的后果的意见。在这些磋商中，其阐述了伊朗的原则立场，并强调必须尊重各国主权，停止侵略和威胁，避免破坏性的外国干预，以及地区各国在防止不安全局势蔓延方面所承担的责任。阿拉格齐强调，伊朗有捍卫主权和国家安全的合法权利",
-   "url": "https://wallstreetcn.com/live/3196388",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T16:49:10+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "基因测序仪巨头因美纳：MiSeq™ i100 Series-CN交付量到年底将超过20台",
-   "summary": "全球基因测序仪巨头因美纳持续深化中国市场本土生产制造与交付能力。11月6日，因美纳在进博会现场举行“MiSeq™ i100 Series-CN本土制造与客户交付里程碑活动”，自今年8月正式在中国上市以来，首批由中国生产制造基地生产的产品已完成客户交付。因美纳称，MiSeq™ i100 Series-CN以全球统一质量标准、更贴近本地市场的产品供应与服务响应，支持中国客户在科研、公共卫生和生物医药等",
-   "url": "https://wallstreetcn.com/live/3196378",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T15:55:32+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "御风未来携eVTOL真机M1亮相第九届进博会",
-   "summary": "在第九届进博会期间，御风未来载人电动垂直起降飞行器M1真机亮相展台，成为九届进博会全场唯一的2吨级载人eVTOL真机。M1未来将主要应用于300至3000米核心“载人专属层”空域，主要用于解决城际交通、城市通勤等中短途空中出行需求。据现场介绍，未来若从国家会展中心“打飞的”前往张江、临港、金山以及附近的苏州市中心等地，仅需15分钟到半小时。结合纯电能源与自主飞行等成本优势，未来eVTOL的整体综合",
-   "url": "https://wallstreetcn.com/live/3196377",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T15:54:12+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "国家防减救灾委办公室、应急管理部会商调度雨雪天气防范应对工作。（新华社）",
-   "summary": "国家防减救灾委办公室、应急管理部会商调度雨雪天气防范应对工作。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196375",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T15:53:40+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "沃尔沃辟谣气囊召回短信",
-   "summary": "沃尔沃汽车发布声明，辟谣气囊召回短信：近期流传的“涉及高田气囊召回”等信息均非沃尔沃官方发布。沃尔沃官方发布的召回通知，不会以任何名义引导车主提供银行卡、验证码等敏感信息，或进行转账、付款等操作。",
-   "url": "https://wallstreetcn.com/live/3196372",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T15:49:30+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "DeepSeek网页及API部分中断",
-   "summary": "DeepSeek官方状态页显示，自15:11开始，DeepSeek网页/API部分中断。受到影响的包括对话服务、DeepSeek V4 Pro API服务以及DeepSeek V4.1 Flash API服务。DeepSeek表示，已实施修复，正在监控结果。",
-   "url": "https://wallstreetcn.com/live/3196371",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T15:46:30+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "30项专利获颁中国专利金奖，涵盖高端装备、生物医药等多领域",
-   "summary": "第十五届中国国际专利技术与产品交易会11月6日至8日在江苏无锡举办。同期，举行中国专利奖颁奖大会，颁发26届中国专利金奖和中国外观设计金奖。此次共有30项专利获颁中国专利金奖，涵盖高端装备、生物医药、绿色低碳等技术领域，既有助力高端装备制造业创新发展的核心技术，也有维护人民生命健康、满足美好生活需要的民生类发明专利，集中体现了专利技术在突破“卡脖子”难题和支撑产业升级中的关键作用。此外，有10项中",
-   "url": "https://wallstreetcn.com/live/3196366",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T14:33:33+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "国内首个科技法学院在雄安新区成立",
-   "summary": "今天（11月7日），国内首个科技法学院——北京科技大学科技法学院在雄安新区成立。学院内设知识产权、科技法、科技政策、法学基础4个教学科研机构，与研究生招生分步推进。初期设置工法复合知识产权本科专业，专业硕士培养也将逐步布局雄安。（央视）",
-   "url": "https://wallstreetcn.com/live/3196361",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T13:47:42+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "2026年中国国际智能传播论坛将在江苏无锡举行",
-   "summary": "2026年中国国际智能传播论坛将于11月8日至10日在江苏无锡举行。本届论坛以“新生态 新机遇 新未来”为主题，将举办一场开幕式暨主论坛、两场主题论坛及多项特色配套活动。论坛将邀请国际组织代表、国内外专家学者、媒体人士和企业代表等各界嘉宾齐聚无锡，围绕智能传播与媒体变革、科技创新与产业发展、文明互鉴与国际合作等议题深入交流，搭建更高水平的国际交流合作平台。（央视新闻）",
-   "url": "https://wallstreetcn.com/live/3196360",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T13:28:23+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "上海交易团国资分团第九届进博会已达成意向采购金额28.62亿美元",
-   "summary": "记者从第九届进博会上海交易团国资分团集中签约仪式上获悉，截至目前，上海交易团国资分团在大宗商品、医疗器械、农食产品等领域已达成意向采购订单137笔，意向采购金额28.62亿美元，同比增长3.1%。至此，自首届进博会以来，上海交易团国资分团已与20多个国家和地区的企业达成意向采购金额252亿美元，连续九年居上海交易团各分团首位。（证券时报）",
-   "url": "https://wallstreetcn.com/live/3196357",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T12:46:47+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "绿地集团、库帕思科技与济南市槐荫区人民政府达成三方战略合作",
-   "summary": "据绿地集团公众号，11月6日，绿地集团山东区域管理总部、济南市槐荫区政府、上海库帕思科技有限公司在上海签署战略合作协议，三方将携手围绕人工智能语料数据服务、AI产业生态培育、产业载体招商运营等进行深化合作，共筑人工智能产业新生态。",
-   "url": "https://wallstreetcn.com/live/3196349",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T11:45:00+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "三峡集团“十五五”在滇首个陆上风电项目实现首批并网",
-   "summary": "据中国三峡能源公众号，11月6日，三峡能源云南弥勒西54.5万千瓦风电场扩建项目首批18万千瓦风电机组成功并网。云南弥勒西风电场扩建项目是三峡集团“十五五”期间在云南省并网的首个风电项目，也是唯一入选《云南省2026年度“重中之重”项目清单》的风电工程。",
-   "url": "https://wallstreetcn.com/live/3196348",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T11:44:34+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "前三季度广告业头部企事业单位收入同比增长8.5%",
-   "summary": "据市说新语公众号，数据显示，前三季度全国从事广告业务的头部企事业单位共实现收入16008.3亿元，同比增长8.5%。前三季度，互联网广告收入9568.9亿元，同比增长17.5%，其中，移动互联网广告发布收入8125亿元，同比增长14%，广告业数智化转型加速推进。主流媒体广告业务平稳增长，积极发挥品牌传播重要作用，以电视台为代表的事业单位广告业务收入345.7亿元，同比增长3.3%。",
-   "url": "https://wallstreetcn.com/live/3196347",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T11:28:02+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "针对食品非法添加新型衍生物 市场监管总局发布两项补充检验方法",
-   "summary": "记者今天了解到，市场监管总局针对食品中非法添加的酚丁（酚汀）类、比沙可啶类物质新型衍生物，发布两项食品补充检验方法。\n\n酚丁（酚汀）类、比沙可啶类物质具有刺激性致泻作用，长期摄入可能引发腹痛、腹泻、电解质紊乱以及肝肾损伤。随着执法力度不断加大，部分不法分子为逃避监管，通过合成两类物质的新型衍生物，添加在果冻、蜜饯、糖果、饮料等食品中，虚假宣称功效。此次出台的检验方法，可有效识别两类物质的多种新型衍",
-   "url": "https://wallstreetcn.com/live/3196335",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T10:32:43+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普称美国是霍尔木兹海峡占领者",
-   "summary": "当地时间11月6日晚，美国总统特朗普在回答记者有关“美军是否袭击了伊朗南部格什姆岛”的提问时证实，美军对伊朗进行了小规模打击，“干掉了伊朗小型防空装置”。\n\n特朗普还坚持认为对伊朗的军事行动“不算战争”，并称美国应该算是“占领者”，因为美国控制着霍尔木兹海峡。\n\n据伊朗媒体报道，今天（11月7日）凌晨，2枚导弹击中了伊朗南部格什姆岛，目前尚无关于受损情况的官方信息。（CCTV国际时讯）",
-   "url": "https://wallstreetcn.com/live/3196323",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T10:09:34+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "中国央行连续24个月扩大黄金储备",
-   "summary": "中国10月末黄金储备7830万盎司，9月末黄金储备7747万盎司。",
-   "url": "https://wallstreetcn.com/live/3196321",
-   "source": "wallstreetcn",
-   "channel": "a-stock-channel",
-   "time": "2026-11-07T10:05:19+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "英伟达CEO女儿取消原定访韩计划。（韩联社）",
-   "summary": "英伟达CEO女儿取消原定访韩计划。（韩联社）",
-   "url": "https://wallstreetcn.com/live/3196428",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T21:25:06+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。",
-   "summary": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。\n\n截至10月28日，第四季度回购了相当于约2,554股A类股的股份。",
-   "url": "https://wallstreetcn.com/live/3196427",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T21:21:48+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。\n\n第三季度净利润221.1亿美元，同比下降28%",
-   "summary": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。\n\n第三季度净利润221.1亿美元，同比下降28%。\n\n第三季度保险承保经营收益13.5亿美元，同比下降43%。\n\n第三季度保险投资经营收益27.3亿美元，同比下降14%。\n\n第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。\n\n第三季度回购约96亿美元股份。",
-   "url": "https://wallstreetcn.com/live/3196425",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T21:02:31+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "事关中国汽车工业，马斯克最新表态",
-   "summary": "当地时间11月6日，特斯拉公司首席执行官马斯克接受投资者罗恩·巴伦采访时表示，他热爱中国，并高度评价中国汽车工业的竞争力。\n\n“中国令人惊叹。顺便说一句，我爱中国。去那里旅行令人深受鼓舞，”马斯克在采访中说。",
-   "url": "https://wallstreetcn.com/live/3196421",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T19:33:21+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
-   "summary": "据伊朗伊斯兰共和国广播电视台7日报道，伊朗海军公共关系部门当天发表声明说，一艘油轮在霍尔木兹海峡东部触雷起火并停止航行。\n\n声明说，这艘油轮当天上午“一再无视警告”，在禁航且不安全海域航行，并关闭了导航系统。声明强调，“所有无视警告、在禁航区域航行的违规船只和舰艇，下场都会如此”。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196413",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T18:58:11+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "通用汽车高管：持续看好中国新能源汽车发展前景",
-   "summary": "通用汽车全球高级副总裁兼通用汽车中国及亚洲市场总裁罗煦日前在第九届中国国际进口博览会现场表示，进博会为通用汽车与中国消费者交流、展示对华合作成果提供了平台。中国汽车市场创新活跃，产品研发和更新迭代节奏较快，为公司开展创新与合作带来重要机遇，通用汽车持续看好在中国发展新能源汽车的前景。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196410",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T18:41:04+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美媒爆：美政府考虑以“涉恐”为由暂停部分非营利组织免税资格",
-   "summary": "据美国《华尔街日报》当地时间6日援引知情人士消息披露，美政府正在考虑发布一项行政令，将部分非营利组织认定为与恐怖主义存在关联，此举将立即暂停其免税资格，并可能严重削弱相关组织的运作能力。",
-   "url": "https://wallstreetcn.com/live/3196401",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T17:52:21+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证",
-   "summary": "当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队将该系统部署在宇树科技的G1人形机器人上进行验证，让机器人将在仿真环境中学到的动作，带到陌生的现实房间中执行。",
-   "url": "https://wallstreetcn.com/live/3196396",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T17:24:33+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "选举失利引发离职潮？美司法部高官接连辞职",
-   "summary": "美国2026年中期选举结束，美国司法部3名高级别官员相继辞职。据美国媒体分析，司法部出现“离职潮”在意料之中。随着共和党失去国会参众两院控制权，特朗普政府将陷入“跛脚”困境，司法部一些官员重返回报丰厚的律所工作并不意外。",
-   "url": "https://wallstreetcn.com/live/3196393",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T17:03:58+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "SK集团携全栈解决方案亮相进博会",
-   "summary": "在第九届进博会上，SK集团携旗下SK海力士、SK电讯等成员公司，集中展示覆盖AI硬件与软件的全栈解决方案，展现面向未来的AI技术愿景。\n\n其中，SK海力士在展会上集中呈现了覆盖AI数据中心到PC、移动终端的全场景面向AI的存储器解决方案。",
-   "url": "https://wallstreetcn.com/live/3196391",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T17:00:51+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗外长强调不受外部干预情况下建立区域安全机制必要性",
-   "summary": "当地时间7日，伊朗外长阿拉格齐表示，过去48小时内，其分别与阿曼、埃及、约旦、沙特、卡塔尔、巴基斯坦等12个国家外长通电话，回顾并交换了对最新地区和国际局势发展以及美以不断升级其行动所带来的后果的意见。在这些磋商中，其阐述了伊朗的原则立场，并强调必须尊重各国主权，停止侵略和威胁，避免破坏性的外国干预，以及地区各国在防止不安全局势蔓延方面所承担的责任。",
-   "url": "https://wallstreetcn.com/live/3196387",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T16:48:59+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美国多名国会议员说将推动撤销不合理关税政策",
-   "summary": "11月7日消息，鉴于美国选民对高生活成本和高通胀反应强烈，随着民主党在中期选举中取得压倒性胜利，多名民主党籍国会议员表示将致力于推动撤销现行的不合理关税政策。尽管这些民主党籍国会议员表达了推动撤销不合理关税措施的意愿，但也有分析认为，虽然民主党在中期选举中获得国会参议院和众议院的控制权，但美国总统特朗普可以通过对国会立法行使否决权等进行有效制衡，现有关税措施短期内或难以出现实质性松动。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196369",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T15:38:52+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "汽车零部件供应商Autokiniton搁置修改并延长10亿美元贷款的计划",
-   "summary": "据一位知情人士透露，Autokiniton US Holdings Inc.已搁置修改并延长一项约10.5亿美元杠杆贷款协议的尝试。 这家汽车零部件供应商此前已优化条款，将拟议的贷款延长期限缩短一年至2030年，将贷款折价提高到每1美元面值97.5美分，并将利率设定为基准利率加4.75个百分点，处于最初讨论区间的高端。（彭博）",
-   "url": "https://wallstreetcn.com/live/3196367",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T14:38:03+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "卡塔尔首相：调解努力仍在继续，以防止局势失控。即便在中期选举之后，美国政府仍愿意寻求解决方案。（半岛电视台）",
-   "summary": "卡塔尔首相：调解努力仍在继续，以防止局势失控。即便在中期选举之后，美国政府仍愿意寻求解决方案。（半岛电视台）",
-   "url": "https://wallstreetcn.com/live/3196343",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T11:13:08+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普任命新白宫幕僚长 怀尔斯将调至政治运营团队",
-   "summary": "美国总统特朗普6日宣布，白宫办公厅副主任斯蒂芬·米勒将从9日起接替苏茜·怀尔斯，出任白宫办公厅主任。怀尔斯“将调至特朗普政治运营团队”。\n\n特朗普在社交媒体发文宣布这一任命，称米勒是其“最信任的顾问之一”，而怀尔斯在担任白宫办公厅主任期间“做得非常棒”。",
-   "url": "https://wallstreetcn.com/live/3196325",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T10:11:24+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普称美国是霍尔木兹海峡占领者",
-   "summary": "当地时间11月6日晚，美国总统特朗普在回答记者有关“美军是否袭击了伊朗南部格什姆岛”的提问时证实，美军对伊朗进行了小规模打击，“干掉了伊朗小型防空装置”。\n\n特朗普还坚持认为对伊朗的军事行动“不算战争”，并称美国应该算是“占领者”，因为美国控制着霍尔木兹海峡。\n\n据伊朗媒体报道，今天（11月7日）凌晨，2枚导弹击中了伊朗南部格什姆岛，目前尚无关于受损情况的官方信息。（CCTV国际时讯）",
-   "url": "https://wallstreetcn.com/live/3196323",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T10:09:34+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "DDHQ：加州选民否决了亿万富翁税。",
-   "summary": "DDHQ：加州选民否决了亿万富翁税。",
-   "url": "https://wallstreetcn.com/live/3196314",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T09:59:19+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "商务部回应“美首次以涉古巴为由制裁中企”：敦促美方尽快纠正错误做法",
-   "summary": "商务部新闻发言人就美制裁中国企业答记者问。\n\n问：美东时间11月5日，美国务院宣布制裁两家中国企业。有消息称，这是美首次以涉古巴为由对中国企业实施制裁。请问中方对此有何评论？\n\n答：我们注意到有关情况。美方以涉及第三方为由，对中国企业采取单边制裁，违反国际法和国际关系基本准则，中方对此坚决反对。\n\n近期，美方升级对中方制裁打压，密集出台多项歧视性限制措施，严重损害中国企业权益，背离两国元首达成的重",
-   "url": "https://wallstreetcn.com/live/3196294",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T09:20:18+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普称美方对伊朗实施“小型打击”",
-   "summary": "美国总统特朗普6日对媒体说，美方对伊朗实施了“小型打击”，摧毁伊朗制造的“一个小型防空装置”。\n\n据伊朗塔斯尼姆通讯社早前报道，根据初步报告，两枚导弹击中了伊朗格什姆岛。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196288",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:50:16+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普被告知再袭伊朗时间窗口有限",
-   "summary": "当地时间11月6日，据美国方面消息，两名美国官员透露，特朗普政府部分顾问已告知特朗普，重新对伊朗展开大规模军事行动的“时间窗口正在缩小”，建议其在明年1月民主党控制的新一届国会就职前采取行动。这意味着特朗普需要在未来数周内作出决定。",
-   "url": "https://wallstreetcn.com/live/3196283",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:44:15+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗媒体：格什姆岛遭导弹袭击 一架美无人机被击落",
-   "summary": "据伊朗塔斯尼姆通讯社7日报道，根据初步报告，两枚导弹击中了伊朗格什姆岛。伊朗军方向媒体证实，一架美军MQ－9无人机在格什姆岛上空被伊朗防空系统击落。",
-   "url": "https://wallstreetcn.com/live/3196280",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:36:38+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普：安排了很多与俄罗斯有关的会议。\n\n在与俄罗斯、乌克兰方面取得很大进展。\n\n可能在移民和税收问题上与民主党合作。\n",
-   "summary": "特朗普：安排了很多与俄罗斯有关的会议。\n\n在与俄罗斯、乌克兰方面取得很大进展。\n\n可能在移民和税收问题上与民主党合作。\n\n米勒忠诚、聪明。\n\n预计未来几个月内离职的人会很少。\n\n希望Thune能让参议院采取行动。\n\n（谈伊朗）我们进行了小规模打击。\n\n（谈俄罗斯、乌克兰）今天已经通了电话，周一、周二有会议。",
-   "url": "https://wallstreetcn.com/live/3196276",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:31:07+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美国就伊朗核计划悬赏2000万美元",
-   "summary": "今天（11月7日），美国中央司令部在社交媒体发布消息称，美国所谓“正义奖励计划（美国国务院旗下的悬赏项目）”正悬赏最高2000万美元，征集有关伊朗核计划的信息，包括其核设施、设备及相关人员（如科学界人士）的情况，以及上述任一目标的动向。提供线索者还可能获得搬迁转移、异地安置的机会。（CCTV国际时讯）",
-   "url": "https://wallstreetcn.com/live/3196273",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:19:46+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普设法在美国中期选举问题上翻篇，称会解雇一些人",
-   "summary": "美国总统特朗普宣布，斯蒂芬·米勒将接替苏茜·怀尔斯担任白宫办公厅主任。就在数小时前，他在《60分钟》节目中表示会对团队进行调整。 被问及共和党输掉参众两院后，他是否打算解雇一些人，总统回答：“是的，会有一些调整。” “我信任我的内阁成员，我认为他们都很不错，”他说，“但我或许会做出几处人事变动。”\n\n特朗普表示，国防部长皮特·赫格塞目前职位稳固。但据报道，他本周曾询问顾问是否应当换掉这位五角大楼负",
-   "url": "https://wallstreetcn.com/live/3196271",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:12:59+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-   "summary": "北京时间11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。双方围绕落实好中美元首北京和华盛顿会晤重要共识和经贸磋商成果，就彼此关心的重要经贸问题进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，继续发挥好中美经贸磋商机制作用，持续加强合作，妥善管控分歧，推动中美经贸关系持续稳定向好",
-   "url": "https://wallstreetcn.com/live/3196269",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T08:06:46+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "2枚导弹击中伊朗格什姆岛",
-   "summary": "据伊朗塔斯尼姆通讯社报道，初步信息显示，今天（11月7日）凌晨，2枚导弹击中了伊朗南部格什姆岛，目前尚无关于受损情况的官方信息。伊朗官方通讯社伊通社早些时候援引当地目击者的话报道说，“在听到岛上空有飞机声响后，2枚飞行物击中了格什姆岛的苏扎地区。”对相关报道，美国方面暂无回应。 (CCTV国际时讯)",
-   "url": "https://wallstreetcn.com/live/3196266",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T07:24:31+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "报道：未来资产证券称网络攻击致数据泄露",
-   "summary": "据韩联社报道，未来资产证券（Mirae Asset Securities Co.）表示，在一场网络攻击中，35,000余名员工的个人信息以及约3,800名客户的账号遭到泄露，这是韩国金融业遭遇的最新一起数据泄露事件。\n\n一份声明称，该券商于11月4-5日侦测到针对其手机—网页认证服务及内部协同办公（groupware）系统的外部攻击。",
-   "url": "https://wallstreetcn.com/live/3196265",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T07:23:55+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "选举担忧提前来袭，阿根廷债券跌向“困境”水平",
-   "summary": "随着全球风险偏好退潮与投资者对明年总统选举的焦虑加剧相互碰撞，阿根廷全球债券正走向一年多来最差的一周。\n\n基准2035年债券每美元下跌逾3美分，收益率从上周末的12.67%升至周五的13.77%。据摩根大通指数，本周前四个交易日中，投资者持有阿根廷债务相对美国债券所要求的额外收益率（利差）扩大近140个基点至928个基点——是其7月低点的两倍以上。",
-   "url": "https://wallstreetcn.com/live/3196264",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T07:16:27+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "道明证券：预计2027年美国高评级债券发行将达创纪录的2.4万亿美元",
-   "summary": "道明证券预测，在人工智能（AI）相关支出增加、并购活动以及再融资/赎回需求上升的推动下，2027年美国投资级公司债券发行量将达创纪录的2.4万亿美元。\n\n美国信贷策略师Hans Mikkelsen在一份报告中写道：“异常强势的‘蓝色浪潮’意味着数据中心建设将面临更多阻力。因此，尽管我们此前曾考虑将2027年美国投资级债券发行量上调5000亿美元，现在我们将其收窄至3000亿美元。我们预计明年为2.",
-   "url": "https://wallstreetcn.com/live/3196263",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T07:01:56+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "两年期美债收益率在非农日涨超4.9个基点，本周因中期选举结果而跌7.6个基点",
-   "summary": "周五（11月6日）纽约尾盘，美国10年期基准国债收益率涨2.27个基点，报4.8574%，北京时间21:30发布美国非农就业报告前60秒回撤至4.8574%、数据发布后60秒刷新日高至4.9005%，纽约中午刷新日低（也是本周最低位），本周累计下跌7.15个基点，整体交投于4.9683%-4.8103%区间。\n\n两年期美债收益率涨4.92个基点，报4.5115%，非农就业数据出炉时加速上涨、22:",
-   "url": "https://wallstreetcn.com/live/3196262",
-   "source": "wallstreetcn",
-   "channel": "us-stock-channel",
-   "time": "2026-11-07T06:53:43+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
-   "summary": "据伊朗伊斯兰共和国广播电视台7日报道，伊朗海军公共关系部门当天发表声明说，一艘油轮在霍尔木兹海峡东部触雷起火并停止航行。\n\n声明说，这艘油轮当天上午“一再无视警告”，在禁航且不安全海域航行，并关闭了导航系统。声明强调，“所有无视警告、在禁航区域航行的违规船只和舰艇，下场都会如此”。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196413",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T18:58:11+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗外长强调不受外部干预情况下建立区域安全机制必要性",
-   "summary": "当地时间7日，伊朗外长阿拉格齐表示，过去48小时内，其分别与阿曼、埃及、约旦、沙特、卡塔尔、巴基斯坦等12个国家外长通电话，回顾并交换了对最新地区和国际局势发展以及美以不断升级其行动所带来的后果的意见。在这些磋商中，其阐述了伊朗的原则立场，并强调必须尊重各国主权，停止侵略和威胁，避免破坏性的外国干预，以及地区各国在防止不安全局势蔓延方面所承担的责任。",
-   "url": "https://wallstreetcn.com/live/3196387",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T16:48:59+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美国多名国会议员说将推动撤销不合理关税政策",
-   "summary": "11月7日消息，鉴于美国选民对高生活成本和高通胀反应强烈，随着民主党在中期选举中取得压倒性胜利，多名民主党籍国会议员表示将致力于推动撤销现行的不合理关税政策。尽管这些民主党籍国会议员表达了推动撤销不合理关税措施的意愿，但也有分析认为，虽然民主党在中期选举中获得国会参议院和众议院的控制权，但美国总统特朗普可以通过对国会立法行使否决权等进行有效制衡，现有关税措施短期内或难以出现实质性松动。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196369",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T15:38:52+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "香港证监会收紧误导性称衔，降低投资者误判风险",
-   "summary": "11月6日，香港证券及期货事务监察委员会发表咨询总结，就进一步限制不受规管的机构使用具误导性的名称以保障投资者，相关修订建议获市场广泛支持。香港证监会表示，将扩大受限制称衔清单，并建立更快更新清单的机制，同时把监管覆盖延伸至虚拟资产领域，从源头减少投资者因机构名称产生误判，夯实投资者保护防线。",
-   "url": "https://wallstreetcn.com/live/3196364",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T14:32:43+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "太古可口可乐中国发布“致胜2035”十年战略",
-   "summary": "11月6日，太古可口可乐中国在第九届进博会上发布面向中国市场的“致胜2035”十年战略，以“创新行稳”为核心主张，围绕消费者驱动、以客户为中心、以人为本、扎根社区四大举措布局未来十年。太古可口可乐大中华区首席执行官金忆表示，公司在中国市场跑通的有效做法，未来均有机会为中国饮料行业提供借鉴样本。",
-   "url": "https://wallstreetcn.com/live/3196356",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T12:35:52+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "卡塔尔首相：调解努力仍在继续，以防止局势失控。即便在中期选举之后，美国政府仍愿意寻求解决方案。（半岛电视台）",
-   "summary": "卡塔尔首相：调解努力仍在继续，以防止局势失控。即便在中期选举之后，美国政府仍愿意寻求解决方案。（半岛电视台）",
-   "url": "https://wallstreetcn.com/live/3196343",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T11:13:08+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普称美国是霍尔木兹海峡占领者",
-   "summary": "当地时间11月6日晚，美国总统特朗普在回答记者有关“美军是否袭击了伊朗南部格什姆岛”的提问时证实，美军对伊朗进行了小规模打击，“干掉了伊朗小型防空装置”。\n\n特朗普还坚持认为对伊朗的军事行动“不算战争”，并称美国应该算是“占领者”，因为美国控制着霍尔木兹海峡。\n\n据伊朗媒体报道，今天（11月7日）凌晨，2枚导弹击中了伊朗南部格什姆岛，目前尚无关于受损情况的官方信息。（CCTV国际时讯）",
-   "url": "https://wallstreetcn.com/live/3196323",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T10:09:34+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "中国10月外汇储备 34051.8亿美元，前值 34002.5亿美元。",
-   "summary": "中国10月外汇储备 34051.8亿美元，前值 34002.5亿美元。",
-   "url": "https://wallstreetcn.com/live/3196315",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T10:00:42+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": true
-  },
-  {
-   "title": "商务部回应“美首次以涉古巴为由制裁中企”：敦促美方尽快纠正错误做法",
-   "summary": "商务部新闻发言人就美制裁中国企业答记者问。\n\n问：美东时间11月5日，美国务院宣布制裁两家中国企业。有消息称，这是美首次以涉古巴为由对中国企业实施制裁。请问中方对此有何评论？\n\n答：我们注意到有关情况。美方以涉及第三方为由，对中国企业采取单边制裁，违反国际法和国际关系基本准则，中方对此坚决反对。\n\n近期，美方升级对中方制裁打压，密集出台多项歧视性限制措施，严重损害中国企业权益，背离两国元首达成的重",
-   "url": "https://wallstreetcn.com/live/3196294",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T09:20:18+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普称美方对伊朗实施“小型打击”",
-   "summary": "美国总统特朗普6日对媒体说，美方对伊朗实施了“小型打击”，摧毁伊朗制造的“一个小型防空装置”。\n\n据伊朗塔斯尼姆通讯社早前报道，根据初步报告，两枚导弹击中了伊朗格什姆岛。（新华社）",
-   "url": "https://wallstreetcn.com/live/3196288",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T08:50:16+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "特朗普被告知再袭伊朗时间窗口有限",
-   "summary": "当地时间11月6日，据美国方面消息，两名美国官员透露，特朗普政府部分顾问已告知特朗普，重新对伊朗展开大规模军事行动的“时间窗口正在缩小”，建议其在明年1月民主党控制的新一届国会就职前采取行动。这意味着特朗普需要在未来数周内作出决定。",
-   "url": "https://wallstreetcn.com/live/3196283",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T08:44:15+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗媒体：格什姆岛遭导弹袭击 一架美无人机被击落",
-   "summary": "据伊朗塔斯尼姆通讯社7日报道，根据初步报告，两枚导弹击中了伊朗格什姆岛。伊朗军方向媒体证实，一架美军MQ－9无人机在格什姆岛上空被伊朗防空系统击落。",
-   "url": "https://wallstreetcn.com/live/3196280",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T08:36:38+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美国就伊朗核计划悬赏2000万美元",
-   "summary": "今天（11月7日），美国中央司令部在社交媒体发布消息称，美国所谓“正义奖励计划（美国国务院旗下的悬赏项目）”正悬赏最高2000万美元，征集有关伊朗核计划的信息，包括其核设施、设备及相关人员（如科学界人士）的情况，以及上述任一目标的动向。提供线索者还可能获得搬迁转移、异地安置的机会。（CCTV国际时讯）",
-   "url": "https://wallstreetcn.com/live/3196273",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T08:19:46+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-   "summary": "北京时间11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。双方围绕落实好中美元首北京和华盛顿会晤重要共识和经贸磋商成果，就彼此关心的重要经贸问题进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，继续发挥好中美经贸磋商机制作用，持续加强合作，妥善管控分歧，推动中美经贸关系持续稳定向好",
-   "url": "https://wallstreetcn.com/live/3196269",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T08:06:46+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "2枚导弹击中伊朗格什姆岛",
-   "summary": "据伊朗塔斯尼姆通讯社报道，初步信息显示，今天（11月7日）凌晨，2枚导弹击中了伊朗南部格什姆岛，目前尚无关于受损情况的官方信息。伊朗官方通讯社伊通社早些时候援引当地目击者的话报道说，“在听到岛上空有飞机声响后，2枚飞行物击中了格什姆岛的苏扎地区。”对相关报道，美国方面暂无回应。 (CCTV国际时讯)",
-   "url": "https://wallstreetcn.com/live/3196266",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T07:24:31+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "道明证券：预计2027年美国高评级债券发行将达创纪录的2.4万亿美元",
-   "summary": "道明证券预测，在人工智能（AI）相关支出增加、并购活动以及再融资/赎回需求上升的推动下，2027年美国投资级公司债券发行量将达创纪录的2.4万亿美元。\n\n美国信贷策略师Hans Mikkelsen在一份报告中写道：“异常强势的‘蓝色浪潮’意味着数据中心建设将面临更多阻力。因此，尽管我们此前曾考虑将2027年美国投资级债券发行量上调5000亿美元，现在我们将其收窄至3000亿美元。我们预计明年为2.",
-   "url": "https://wallstreetcn.com/live/3196263",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T07:01:56+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "两年期美债收益率在非农日涨超4.9个基点，本周因中期选举结果而跌7.6个基点",
-   "summary": "周五（11月6日）纽约尾盘，美国10年期基准国债收益率涨2.27个基点，报4.8574%，北京时间21:30发布美国非农就业报告前60秒回撤至4.8574%、数据发布后60秒刷新日高至4.9005%，纽约中午刷新日低（也是本周最低位），本周累计下跌7.15个基点，整体交投于4.9683%-4.8103%区间。\n\n两年期美债收益率涨4.92个基点，报4.5115%，非农就业数据出炉时加速上涨、22:",
-   "url": "https://wallstreetcn.com/live/3196262",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:53:43+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "伊朗军队发言人：美接受伊朗条件是霍尔木兹海峡重开关键",
-   "summary": "据伊朗方面6日消息，伊朗军队发言人阿克拉米尼亚表示，美国接受伊朗提出的七项条件，是重新开放霍尔木兹海峡的唯一途径，再次侵略或进一步挑衅都不会促使该海峡重新开放。\n\n阿克拉米尼亚表示，伊朗最高领袖穆杰塔巴近日在与伊朗武装力量高级指挥官会晤时下令，针对任何可能来自美国和以色列的威胁作出迅速、有力且不受地理限制的回应。伊朗武装部队将把美国等敌方的所有有形和无形资产视为潜在军事目标。阿克拉米尼亚还表示，穆",
-   "url": "https://wallstreetcn.com/live/3196259",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:49:38+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美国副总统万斯几乎每天都与卡塔尔首相、巴基斯坦讨论伊朗问题。\n\n美国、调停方研究美国与伊朗举行工作层面对话的可能性。\n\n",
-   "summary": "美国副总统万斯几乎每天都与卡塔尔首相、巴基斯坦讨论伊朗问题。\n\n美国、调停方研究美国与伊朗举行工作层面对话的可能性。\n\n美伊工作组会议这个想法还没有最终成型。（Axios）",
-   "url": "https://wallstreetcn.com/live/3196258",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:49:03+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "初步报告显示两枚导弹击中伊朗格什姆岛，爆炸可能是美国空袭",
-   "summary": "总台记者7日自伊朗方面获悉，根据初步报告，当天凌晨两枚导弹击中了格什姆岛。伊朗官方尚未公布细节。据称，爆炸可能是美国空袭，目标是位于格什姆岛上的伊朗防空导弹发射装置，该装置曾向一架战斗机发射导弹。（央视新闻）",
-   "url": "https://wallstreetcn.com/live/3196256",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:30:29+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "周五（11月6日）纽约尾盘，标普500股指期货最终涨0.4%，道指期货跌0.42%，纳斯达克100股指期货涨1.42%。",
-   "summary": "周五（11月6日）纽约尾盘，标普500股指期货最终涨0.4%，道指期货跌0.42%，纳斯达克100股指期货涨1.42%。\n\n罗素2000股指期货涨0.89%。",
-   "url": "https://wallstreetcn.com/live/3196251",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:14:25+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "国际金价在非农日走低，本周累涨5%，纽约铜本周跌3.8%",
-   "summary": "周五（11月6日）纽约尾盘，现货黄金跌0.4%，报4071.39美元/盎司，亚太早盘曾短暂地微幅上涨，北京时间09:17以来持续处于下跌状态，21:30发布美国非农就业报告时显著下跌、刷新日低至4028.49美元，本周累计上涨5.06%，11月4-5日（至亚太中午）持续扩大涨幅、11:30达到4146.97美元。\n\nCOMEX黄金期货累涨4.65%，报4080.10美元/盎司。\n\n现货白银涨0.2",
-   "url": "https://wallstreetcn.com/live/3196250",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:13:47+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美司法部与库克请求暂缓罢免案诉讼，等待白宫下月听证",
-   "summary": "美国司法部和美联储理事丽莎·库克的律师请求联邦法官继续搁置特朗普试图将她免职的法律争端，等待白宫定于12月举行的听证。司法部和库克的法律团队周五向美国地区法官Jia Cobb提交了一份简短的联合报告，称法院应暂停即将到来的各项最后期限，他们将在1月初再次向法官通报最新情况。美国最高法院今年夏天裁定，特朗普去年首次试图罢免库克之前没有给她提供正当的自我辩护机会。大法官允许库克暂时留任，并将案件发回C",
-   "url": "https://wallstreetcn.com/live/3196248",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:04:39+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "报道：Anthropic拟于下周启动IPO路演",
-   "summary": "媒体援引知情人士报道称，Anthropic PBC计划于下周启动首次公开募股（IPO）的正式推介，向潜在投资者展开营销。此次IPO路演是在科技股经历两周剧烈波动之后进行的。此前，投资者对亚马逊和谷歌公布的巨额AI支出计划，以及民主党在中期选举中的压倒性胜利作出了反应。周五，科技股虽出现反弹，但全周仍收跌3%。Anthropic正继续推进其上市计划，拟于11月16日当周挂牌，赶在美国感恩节假期之前。",
-   "url": "https://wallstreetcn.com/live/3196247",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T06:03:08+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "明晟公司MSCI新兴市场股票指数跌2.7%，创4月份以来新低，本周累计下跌4.1%，连续第六周走弱，中期选举结果让投资者",
-   "summary": "明晟公司MSCI新兴市场股票指数跌2.7%，创4月份以来新低，本周累计下跌4.1%，连续第六周走弱，中期选举结果让投资者对美国民主党将收紧对人工智能（AI）行业监管的风险感到惶恐不安。\n\nMSCI发展中国家外汇指数大致持平。",
-   "url": "https://wallstreetcn.com/live/3196243",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T05:44:01+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "周五（11月6日），美股AI软件先驱指数涨0.29%，报115.31点，本周累计下跌8.06%。",
-   "summary": "周五（11月6日），美股AI软件先驱指数涨0.29%，报115.31点，本周累计下跌8.06%。",
-   "url": "https://wallstreetcn.com/live/3196242",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T05:37:01+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "周五（11月6日），美股人工智能（AI）赢家指数涨3.46%，报317.72点，本周累计下跌11.95%。",
-   "summary": "周五（11月6日），美股人工智能（AI）赢家指数涨3.46%，报317.72点，本周累计下跌11.95%。",
-   "url": "https://wallstreetcn.com/live/3196241",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T05:36:48+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "周五（11月6日），信息科技指数涨2.85%，报333.37点，本周累计下跌11.63%。",
-   "summary": "周五（11月6日），信息科技指数涨2.85%，报333.37点，本周累计下跌11.63%。",
-   "url": "https://wallstreetcn.com/live/3196240",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T05:36:35+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "美股芯片巨头指数｜标普500半导体及其设备指数收涨3.57%，报9264.71点，本周累计下跌11.20%。",
-   "summary": "美股芯片巨头指数｜标普500半导体及其设备指数收涨3.57%，报9264.71点，本周累计下跌11.20%。",
-   "url": "https://wallstreetcn.com/live/3196239",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T05:32:57+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "周五（11月6日），美股存储芯片与硬件供应链指数涨3.14%，报127.98点，本周累计下跌21.34%，期内几乎整体处",
-   "summary": "周五（11月6日），美股存储芯片与硬件供应链指数涨3.14%，报127.98点，本周累计下跌21.34%，期内几乎整体处于下跌状态，11月2-4日平缓地持续走低、5日盘初加速下跌、后续持续低位震荡。",
-   "url": "https://wallstreetcn.com/live/3196238",
-   "source": "wallstreetcn",
-   "channel": "hk-stock-channel",
-   "time": "2026-11-07T05:31:47+08:00",
-   "codes": [],
-   "themes": [],
-   "is_calendar": false
-  },
-  {
-   "title": "10月以来市场震荡调整 基金投顾逆势加仓A股",
-   "summary": "【10月以来市场震荡调整 基金投顾逆势加仓A股】财联社11月7日电，今年10月以来，市场震荡调整，基金投顾逆势加仓A股。据券商统计，A股资产是10月基金投顾组合加仓最多的资产，且这种低位布局的倾向11月以来还在延续。记者获悉，在10月以来的市场波动中，资金逆势流入部分基金投顾机构的组合。开源证券数据显示，今年10月，基金投顾组合主动增配A股、黄金、新兴市场等资产，主动减配债券、货币及现金、美股等资产，反映主理人在大类资产层面对风险敞口的结构性再平衡。其中，A股在10月出现了震荡调整，基金投顾对其增配比例最高，超过了1.5%，排名第二的黄金增配比例不到0.5%。 (上海证券报)",
-   "url": "https://www.cls.cn/detail/2528129",
+   "title": "特朗普下令美国司法部调查民主党人“威胁弹劾”行为",
+   "summary": "【特朗普下令美国司法部调查民主党人“威胁弹劾”行为】财联社11月8日电，美国总统特朗普7日下令美国司法部对民主党人展开调查，指控他们以弹劾及其他形式的惩罚手段“威胁许多人”，并称这些行为构成“犯罪”。特朗普当天在社交媒体上发文称：“民主党人到处威胁包括美国司法部长在内的许多人，扬言要对他们进行弹劾或其他形式的惩罚……此外，民主党人还以监禁或其他层级的惩罚威胁我们的捐赠者，仅仅因为他们是共和党人或共和党支持者。” (新华社)",
+   "url": "https://www.cls.cn/detail/2528211",
    "source": "cls",
-   "time": "2026-11-07T20:24:01+08:00"
+   "time": "2026-11-08T12:02:40+08:00"
   },
   {
-   "title": "国家海洋预报台发布海浪和风暴潮黄色警报",
-   "summary": "【国家海洋预报台发布海浪和风暴潮黄色警报】财联社11月7日电，据自然资源部消息，国家海洋预报台今天（7日）下午发布海浪和风暴潮黄色警报。海浪方面：受冷空气和低压的共同影响，预计11月7日夜间到8日下午，渤海将出现3到3.8米的大浪区；山东北部近岸海域将出现2.5到3.5米的大浪，该近岸海域海浪预警级别为黄色。风暴潮方面：受冷空气和低压的共同影响，预计11月7日傍晚至8日夜间，渤海湾和莱州湾将出现100到180厘米的风暴增水，山东半岛北部沿海将出现40到70厘米的风暴增水。河北省沧州市和山东省滨州市的风暴潮预警级别为黄色。",
-   "url": "https://www.cls.cn/detail/2528133",
+   "title": "中国磷复肥工业协会倡议：维护行业平稳有序发展",
+   "summary": "【中国磷复肥工业协会倡议：维护行业平稳有序发展】财联社11月8日电，中国磷复肥工业协会发布《关于维护磷复肥行业平稳有序发展倡议》称，当前，国内磷复肥生产总体平稳、保供秩序良好，有效保障了国内冬储推进及来年农业春耕用肥的基本需求，为农业生产稳定筑牢了物资基础。与此同时，行业发展仍面临突出挑战，硫磺等核心原料资源供应偏紧情况并未有效改善，成本波动压力较大，给行业稳定生产、市场平稳运行带来诸多不确定性。为坚决守住农业保供底线，规范行业经营秩序，杜绝低于成本价内卷、恶性竞争等不良行为，维系行业供需动态平衡，推动产业高质量可持续发展，中国磷复肥工业协会现向全行业各生产经营企业发出如下倡议：一、科学统筹生",
+   "url": "https://www.cls.cn/detail/2528212",
    "source": "cls",
-   "time": "2026-11-07T20:37:24+08:00"
+   "time": "2026-11-08T12:15:32+08:00"
   },
   {
-   "title": "【电报解读】平均成功率91%！苹果研究团队披露机器人“大脑”进展，分析师看好人形机器人大小脑融合在即，或迎“GPT时刻”，快速梳理机器人大小脑相关标的（附表）",
-   "summary": "",
-   "url": "https://www.cls.cn/detail/2528130",
+   "title": "中国移动发布2027泛全联盟合作策略",
+   "summary": "【中国移动发布2027泛全联盟合作策略】11月6日，在2026移动网络大会期间，中国移动举办泛全联盟端渠共创合作论坛，围绕智能终端产业演进方向、端渠共创新路径发布2027泛全联盟合作策略，联合终端、芯片、渠道、智能体、服务等产业链嘉宾共探产业变革新机遇，共拓泛全联盟合作新局。论坛现场，中国移动围绕泛全联盟5.0经营升维，重磅发布2027泛全合作策略。一是标准升级，聚焦5G终端升级、6G终端指引两大方向焕新连接；二是产品升级，打造AI时代的定制手机和泛终端，夯实终端底座；三是模式升级，推动Token运营，加快从Byte迈向Token，搭载中国移动特色AI能力及自有业务等规模化落地；四是营销升级，",
+   "url": "https://www.cls.cn/detail/2528215",
    "source": "cls",
-   "time": "2026-11-07T20:51:19+08:00"
+   "time": "2026-11-08T12:20:43+08:00"
   },
   {
-   "title": "天津发布重污染天气橙色预警 9日20时启动Ⅱ级响应",
-   "summary": "【天津发布重污染天气橙色预警 9日20时启动Ⅱ级响应】财联社11月7日电，据天津市重污染天气应对指挥部办公室消息，根据国家和天津市空气质量会商结果，预计从11月9日下午起，天津市将出现一次重污染过程。按照区域联防联控要求和《天津市重污染天气应对预案》（津政办发〔2026〕30号）有关规定，经天津市人民政府批准，天津市重污染天气应对指挥部发布重污染天气橙色预警，从11月9日20时起启动Ⅱ级响应。",
-   "url": "https://www.cls.cn/detail/2528134",
+   "title": "以色列北部因疑有敌对飞行器渗透响起警报 军方称“识别错误”",
+   "summary": "【以色列北部因疑有敌对飞行器渗透响起警报 军方称“识别错误”】财联社11月8日电，以色列国防军8日称，初步报告显示，以色列北部的扎里特和绍梅拉“因疑有敌对飞行器渗透而响起警报”。随后，以色列军方针对稍早前“有疑似敌方飞行器侵入以色列北部领空”的声明作出澄清，表示这是一起识别错误导致的误报事件。",
+   "url": "https://www.cls.cn/detail/2528216",
    "source": "cls",
-   "time": "2026-11-07T20:55:44+08:00"
+   "time": "2026-11-08T12:28:04+08:00"
   },
   {
-   "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元 公司第三季度回购了96亿美元股票",
-   "summary": "【伯克希尔哈撒韦：第三季度营业利润为127.1亿美元 公司第三季度回购了96亿美元股票】财联社11月7日电，伯克希尔哈撒韦公司第三季度营收为1056.47亿美元，去年同期为949.72亿美元；第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。",
-   "url": "https://www.cls.cn/detail/2528135",
+   "title": "受大风影响 辽鲁省际、大连陆岛客运全线停航",
+   "summary": "【受大风影响 辽鲁省际、大连陆岛客运全线停航】财联社11月8日电，大连市气象台11月8日6时7分发布海上大风蓝色预警信号：预计8日20时到9日2时，大连地区西部沿海偏北风6级、阵风7到8级；预计8日20时到9日8时，大连地区东部沿海、南部沿海偏北风6级、阵风7到8级。受大风天气影响，辽宁大连至山东烟台、威海等地的辽鲁省际客运航线于8日5时30分起全线停航。大连庄河、皮长陆岛运输航线于8日1时起全线停航，待大风影响结束后陆续恢复正常。",
+   "url": "https://www.cls.cn/detail/2528219",
    "source": "cls",
-   "time": "2026-11-07T20:57:48+08:00"
+   "time": "2026-11-08T12:49:32+08:00"
+  },
+  {
+   "title": "以军称以北部出现敌方飞行器为乌龙",
+   "summary": "【以军称以北部出现敌方飞行器为乌龙】财联社11月8日电，据媒体报道，以色列军方针对稍早前“有疑似敌方飞行器侵入以色列北部领空”的声明作出澄清，表示这是一起识别错误导致的误报事件。 (CCTV国际时讯)",
+   "url": "https://www.cls.cn/detail/2528220",
+   "source": "cls",
+   "time": "2026-11-08T12:50:08+08:00"
+  },
+  {
+   "title": "全球首个通报评议人才培养国际标准发布",
+   "summary": "【全球首个通报评议人才培养国际标准发布】11月7日，由我国主导研制的2026《技术性贸易措施——评议人员能力提升指南》（ODCCN/PAS 5）国际标准在2026之江营商论坛上正式发布。这是全球首个聚焦世界贸易组织（WTO）《技术性贸易壁垒协定》（TBT）通报评议人员培养的国际标准，由国家标准技术审评中心联合浙江省质量科学研究院等国内外相关单位共同研制。通报评议是WTO成员针对其他成员拟实施的技术性贸易措施提出意见、维护自身贸易权益的重要途径。此次中国主导研制该标准，正是着眼于专业人才培养这一基础环节，将我国实践经验转化为各国可借鉴的能力建设资源，帮助更多国家建立专业评议队伍。 (央视新闻)",
+   "url": "https://www.cls.cn/detail/2528221",
+   "source": "cls",
+   "time": "2026-11-08T13:02:06+08:00"
+  },
+  {
+   "title": "也门官员称叙利亚已出兵 叙方否认",
+   "summary": "【也门官员称叙利亚已出兵 叙方否认】财联社11月8日电，也门政府官员7日称，叙利亚已出兵也门，在沙特阿拉伯与也门边境地区部署数百名军人，后续将增派数千乃至上万人。叙官方媒体当天晚些时候援引外交人士的话否认这一说法，称叙方眼下尚未派兵，但表示将扩大与沙特的军事合作。",
+   "url": "https://www.cls.cn/detail/2528222",
+   "source": "cls",
+   "time": "2026-11-08T13:03:43+08:00"
+  },
+  {
+   "title": "日本自民党或考虑处分前首相石破茂",
+   "summary": "【日本自民党或考虑处分前首相石破茂】财联社11月8日电，据日本朝日电视台今天（11月8日）报道，日本自民党正在考虑对前首相石破茂等人作出一定处分。据报道，6日，日本国会众议院全体会议对消费税减税相关法案进行表决，而石破茂等4人在表决前提前离席。据知情人士透露，自民党干事长铃木俊一要求石破茂等4人以书面形式说明相关事实及提前离席的理由，答复期限为9日正午。 (CCTV国际时讯)",
+   "url": "https://www.cls.cn/detail/2528223",
+   "source": "cls",
+   "time": "2026-11-08T13:04:28+08:00"
+  },
+  {
+   "title": "沙特首都利雅得传出剧烈爆炸声",
+   "summary": "【沙特首都利雅得传出剧烈爆炸声】财联社11月8日电，沙特首都利雅得传出剧烈爆炸声，当地居民收到防空警报。 (央视新闻)",
+   "url": "https://www.cls.cn/detail/2528226",
+   "source": "cls",
+   "time": "2026-11-08T13:07:24+08:00"
+  },
+  {
+   "title": "西渝高铁北碚天府嘉陵江特大桥顺利合龙",
+   "summary": "【西渝高铁北碚天府嘉陵江特大桥顺利合龙】财联社11月8日电，记者从中国铁路成都局集团重庆建设指挥部获悉，11月8日，随着最后一方混凝土的浇筑完成，西渝高铁北碚天府嘉陵江特大桥顺利实现合龙，为全线如期通车奠定了坚实基础。北碚天府嘉陵江特大桥位于重庆市北碚区观音峡“八桥叠翠”景观片区，全长874.35米，由中铁二院设计，中铁十一局承建；主桥为（106+216+106）米索加劲连续刚构桥，其主跨横跨嘉陵江，两侧边跨分别上跨G351、G212国道。西渝高铁建成通车后，将与成渝高铁、郑渝高铁、渝昆高铁等多条干线铁路互联互通，进一步完善中西部地区高速铁路路网结构，极大便利沿线群众出行。 (央视新闻)",
+   "url": "https://www.cls.cn/detail/2528229",
+   "source": "cls",
+   "time": "2026-11-08T13:42:57+08:00"
+  },
+  {
+   "title": "沙特联军称摧毁胡塞射向利雅得导弹",
+   "summary": "【沙特联军称摧毁胡塞射向利雅得导弹】财联社11月8日电，沙特主导的多国联军今天（11月8日）表示拦截并摧毁了两枚也门胡塞武装向沙特首都利雅得发射的导弹。稍早前，沙特利雅得传出剧烈爆炸声。 (CCTV国际时讯)",
+   "url": "https://www.cls.cn/detail/2528230",
+   "source": "cls",
+   "time": "2026-11-08T13:43:40+08:00"
+  },
+  {
+   "title": "中广核吉木乃县黑山75万千瓦风电项目全容量并网投运",
+   "summary": "【中广核吉木乃县黑山75万千瓦风电项目全容量并网投运】财联社11月8日电，中国广核集团消息，11月7日，中广核吉木乃县黑山75万千瓦风电项目全容量并网投运。该项目位于新疆阿勒泰地区吉木乃县，总装机容量75万千瓦，安装75台单机容量10兆瓦的风力发电机组，新建1座220千伏风电汇集站，以1回220千伏送出线路接至国家电网喀纳斯750千伏变电站实现并网。",
+   "url": "https://www.cls.cn/detail/2528232",
+   "source": "cls",
+   "time": "2026-11-08T13:52:55+08:00"
+  },
+  {
+   "title": "韩正访问格鲁吉亚",
+   "summary": "【韩正访问格鲁吉亚】当地时间11月6日至8日，应格鲁吉亚政府邀请，国家副主席韩正访问格鲁吉亚，在第比利斯分别会见格鲁吉亚总统卡韦拉什维利、总理科巴希泽。\n\n会见卡韦拉什维利时，韩正转达习近平主席的亲切问候和良好祝愿。韩正表示，格鲁吉亚是中国在外高加索地区首个战略伙伴，也是欧亚地区首个同中国建立自贸安排的国家。两国建交34年来，始终秉持互尊互信、合作共赢原则，推动双边关系健康稳定发展。今年6月，习近平主席同总统先生共同宣布将中格关系提升为全面战略伙伴关系，为两国关系发展开启新阶段，也为各领域合作注入新动力。巩固好、发展好中格关系，符合两国人民的根本利益和共同期待。中方愿同格方加强沟通协调，共同落",
+   "url": "https://www.cls.cn/detail/2528233",
+   "source": "cls",
+   "time": "2026-11-08T14:04:24+08:00"
   },
   {
    "title": "",
-   "summary": "财联社11月7日电，伯克希尔哈撒韦称，截至9月30日，公司股权投资总公允价值的65%集中于Alphabet、美国运通、苹果、美国银行和可口可乐。",
-   "url": "https://www.cls.cn/detail/2528141",
+   "summary": "财联社11月8日电，据媒体报道，美德两国将于11月中旬就药品定价展开商讨。",
+   "url": "https://www.cls.cn/detail/2528234",
    "source": "cls",
-   "time": "2026-11-07T21:24:02+08:00"
+   "time": "2026-11-08T14:06:34+08:00"
   },
   {
-   "title": "伊拉克外长警告称中东地区或再陷战火",
-   "summary": "【伊拉克外长警告称中东地区或再陷战火】财联社11月7日电，伊拉克外长侯赛因当地时间7日在接受媒体采访时表示，当前局势表明中东地区或将重新爆发战争。侯赛因指出，伊拉克由于霍尔木兹海峡石油出口停滞已损失了约600亿美元，在与美国和伊朗达成协议后，伊拉克恢复通过霍尔木兹海峡出口石油。他表示，美国已正式要求关闭除两个口岸外伊拉克与伊朗的所有边境口岸。伊拉克也已通知伊朗，接受与其发展联盟友好关系，但拒绝其干涉伊拉克事务，有迹象表明，存在外部势力利用伊拉克领土攻击邻国。 (央视新闻)",
-   "url": "https://www.cls.cn/detail/2528142",
+   "title": "今年广交会期间深圳口岸入出境外国人78.3万人次 创历届新高",
+   "summary": "【今年广交会期间深圳口岸入出境外国人78.3万人次 创历届新高】财联社11月8日电，据深圳边检总站消息，今年广交会期间深圳口岸累计查验外国人入出境78.3万人次，日均查验3.6万人次，同比增幅超26.8%，客流量创下历届广交会同期新高。 (深圳特区报)",
+   "url": "https://www.cls.cn/detail/2528235",
    "source": "cls",
-   "time": "2026-11-07T21:44:32+08:00"
+   "time": "2026-11-08T14:09:47+08:00"
   },
   {
-   "title": "伊拉克石油部：将遵守OPEC+431万桶/日的产量水平",
-   "summary": "【伊拉克石油部：将遵守OPEC+431万桶/日的产量水平】财联社11月7日电，伊拉克石油部称，将遵守OPEC+431万桶/日的产量水平，提高产量上限需经OPEC+一致同意，将继续努力争取明年提高产量。",
-   "url": "https://www.cls.cn/detail/2528143",
+   "title": "法国连续第4个周末爆发抗议",
+   "summary": "【法国连续第4个周末爆发抗议】当地时间11月7日，法国多地连续第4个周末爆发针对生活成本上涨、公共服务缩水的游行集会。尽管本轮示威人数低于前几周，但在巴黎，部分抗议者还是与警方爆发了冲突。有人向安保人员投掷杂物、燃放自制烟花，警方随即动用催泪瓦斯。还有人点燃垃圾桶并袭击警察。入夜后，部分抗议者一路行至巴黎的巴士底广场。法国内政部称，全法共有14.6万人参与示威，其中巴黎4.6万人。但工会方面给出的数字是全国25万人、巴黎7.5万人。这些数字低于此前三个周末的示威规模，不过在11月5日，法国总工会刚组织过一场大规模罢工抗议。 (CCTV国际时讯)",
+   "url": "https://www.cls.cn/detail/2528238",
    "source": "cls",
-   "time": "2026-11-07T21:48:32+08:00"
+   "time": "2026-11-08T14:36:01+08:00"
   },
   {
-   "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
-   "summary": "【美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器】财联社11月7日电，美国中央司令部司令库珀当地时间11月7日下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。据介绍，该特遣队由约20名文职及军事人员组成，驻扎在美国佛罗里达州坦帕市。这支新成立的特遣队将与美国其他政府机构展开协调合作，阻止先进武器系统、军民两用技术、受制裁物资及“非法资金”通过伊朗陆地边境和里海进行跨境流动。美国中央司令部称，近几个月来，美国实施的海上封锁已阻止伊朗出口价值超过250亿美元的原油。目前，美方仍对所有进出",
-   "url": "https://www.cls.cn/detail/2528144",
+   "title": "日防卫相称将探索自卫队新组织架构",
+   "summary": "【日防卫相称将探索自卫队新组织架构】财联社11月8日电，据日本广播协会今天（11月8日）报道，围绕修改“安保三文件”，日本防卫大臣小泉进次郎表示，随着日本人口不断减少，要确保自卫队拥有足够数量的队员并非易事。他表示，希望研究打破陆上、海上和航空自卫队之间的组织壁垒，探索新的组织架构，以提升日本防卫能力。 (CCTV国际时讯)",
+   "url": "https://www.cls.cn/detail/2528239",
    "source": "cls",
-   "time": "2026-11-07T21:51:20+08:00"
+   "time": "2026-11-08T14:42:42+08:00"
   },
   {
-   "title": "【电报解读】国家发改委要求支持“六网协同”新场景培育打造！机构称算力基础设施建设有望为电网扩容、新型配电及高可靠供电设备带来“增量需求”，这家公司称产品已在国内多条特高压线路中应用",
-   "summary": "",
-   "url": "https://www.cls.cn/detail/2528136",
+   "title": "",
+   "summary": "财联社11月8日电，法新社8日援引目击者消息说，沙特阿拉伯首都利雅得金融区遭到袭击，沙特阿美石油公司大楼受损。 (新华社)",
+   "url": "https://www.cls.cn/detail/2528241",
    "source": "cls",
-   "time": "2026-11-07T22:09:13+08:00"
+   "time": "2026-11-08T14:56:36+08:00"
   },
   {
-   "title": "泽连斯基：乌仍严重缺乏“爱国者”防空系统拦截弹",
-   "summary": "【泽连斯基：乌仍严重缺乏“爱国者”防空系统拦截弹】财联社11月7日电，乌克兰总统泽连斯基7日表示，俄军在当天的袭击中发射36枚导弹，乌方仅成功拦截4枚。乌方目前仍严重缺乏“爱国者”防空系统拦截弹。泽连斯基表示，乌方正在各个层面寻求加快拦截弹交付，并向美方传递相关信息。 (央视新闻)",
-   "url": "https://www.cls.cn/detail/2528147",
+   "title": "字节跳动考虑扩大巴西数据中心项目",
+   "summary": "【字节跳动考虑扩大巴西数据中心项目】财联社11月8日电，知情人士称，字节跳动正在讨论扩大巴西东北部塞阿拉州的数据中心布局，并为Pecém港园区二期寻找开发商，潜在建设规模可能超过正在施工的一期。现有一期由patria investments（PAX）旗下Omnia开发，投资约100亿美元，IT容量约200兆瓦、总用电需求约300兆瓦，规划建设20个数据机房，预计2027年开始运营。 (凤凰网)",
+   "url": "https://www.cls.cn/detail/2528245",
    "source": "cls",
-   "time": "2026-11-07T22:12:08+08:00"
-  },
-  {
-   "title": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价",
-   "summary": "【显卡价格连涨11个交易日后急跌 华强北显卡半天一个价】财联社11月7日电，显卡是主要用于图形渲染的硬件，如今也广泛用于AI算力运算。此前受海外停产传闻刺激，RTX 50系列显卡开启连续上涨，一口气连涨11个交易日。从10月28日开始，行情突然掉头向下。RTX 5080从最高近2万元，跌到1.6万元，价格回调两成。有商户告诉记者：“代理商、商户提前囤货，导致价格发生了很大浮动，甚至早上跟下午价格都变动很大。”尽管价格有所回落，但目前主流显卡RTX 50系列均价仍是建议零售价的1.7倍，之前较大的价格涨幅仍未消化。华强北市场硬件价格的走向，也吸引着海外采购商的目光。记者走访发现，近期海外客商密集",
-   "url": "https://www.cls.cn/detail/2528148",
-   "source": "cls",
-   "time": "2026-11-07T22:18:28+08:00"
-  },
-  {
-   "title": "日媒：日本新版防卫战略或强化“持续作战能力”",
-   "summary": "【日媒：日本新版防卫战略或强化“持续作战能力”】财联社11月7日电，日本共同社7日援引相关人士消息称，日本政府正考虑在拟于年底修订的《国家防卫战略》中，明确写入强化“持续作战能力”的内容。相关动向在日本政府内外引发担忧。（新华社）",
-   "url": "https://www.cls.cn/detail/2528152",
-   "source": "cls",
-   "time": "2026-11-07T22:59:08+08:00"
-  },
-  {
-   "title": "扎哈罗娃：西方国家无意顾及俄方关切 持续挑动局势升级",
-   "summary": "【扎哈罗娃：西方国家无意顾及俄方关切 持续挑动局势升级】财联社11月7日电，针对将于11月9日在波兰境内开展的“联盟”（Koalicja）多国军事演习，当地时间11月7日，俄罗斯外交部发言人扎哈罗娃表示，“该演习在阿布扎比俄美乌三方谈判前夕开始举行，说明欧洲国家在谈判桌后无事可做”。她还指出，西方国家仍无意愿顾及俄方在安全领域的关切，持续挑动局势升级。在乌克兰境内部署外国军队将意味着事实上的武装干涉以及有意识地向俄罗斯投射额外的安全威胁。对俄方而言，这是坚决不可接受的。外国武装力量一旦部署，就将成为俄方的合法打击目标。",
-   "url": "https://www.cls.cn/detail/2528153",
-   "source": "cls",
-   "time": "2026-11-07T23:17:28+08:00"
-  },
-  {
-   "title": "波兰总理：克拉科夫枪击事件是“悲剧”",
-   "summary": "【波兰总理：克拉科夫枪击事件是“悲剧”】财联社11月7日电，波兰警方7日在社交媒体发文称，该国克拉科夫市当日发生枪击事件，已造成5人死亡、十余人受伤。枪手被警察开枪击中，目前正被送往医院。波兰总理图斯克称，该枪击事件是“悲剧”。（新华社）",
-   "url": "https://www.cls.cn/detail/2528154",
-   "source": "cls",
-   "time": "2026-11-07T23:44:02+08:00"
-  },
-  {
-   "title": "俄称打击乌多地区目标 乌称能源设施遭大规模袭击",
-   "summary": "【俄称打击乌多地区目标 乌称能源设施遭大规模袭击】财联社11月8日电，俄罗斯国防部7日发布通报说，过去一天，俄军在33个地区挫败乌军进攻，并打击了乌方位于139个地区的多类目标。同日，乌克兰称，该国多地能源设施遭大规模袭击。",
-   "url": "https://www.cls.cn/detail/2528159",
-   "source": "cls",
-   "time": "2026-11-08T00:38:55+08:00"
-  },
-  {
-   "title": "日本静冈县西部发生5.7级地震",
-   "summary": "【日本静冈县西部发生5.7级地震】财联社11月8日电，据日本气象厅发布的消息，当地时间8日凌晨1时04分左右，日本静冈县西部发生5.7级地震，震源深度40千米，最大震感为震度5强。日本爱知县、兵库县、静冈县、东京等较大范围区域均有震感。日本气象厅表示本次地震没有引发海啸的风险。",
-   "url": "https://www.cls.cn/detail/2528160",
-   "source": "cls",
-   "time": "2026-11-08T00:39:12+08:00"
-  },
-  {
-   "title": "俄方批评乌“志愿联盟”举行演习恶化局势",
-   "summary": "【俄方批评乌“志愿联盟”举行演习恶化局势】财联社11月8日电，俄罗斯外交部发言人扎哈罗娃7日重申，援助乌克兰的“志愿联盟”旗下多国部队将要举行的演习会加剧局势升级，俄方绝不接受在乌部署外国军队。",
-   "url": "https://www.cls.cn/detail/2528162",
-   "source": "cls",
-   "time": "2026-11-08T02:23:10+08:00"
-  },
-  {
-   "title": "特朗普宣布邀请达纳·怀特担任白宫新闻秘书",
-   "summary": "【特朗普宣布邀请达纳·怀特担任白宫新闻秘书】财联社11月8日电，美国总统特朗普7日在社交媒体上发文说，他已邀请美国终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书一职。他称怀特将会是一名“与众不同”的新闻秘书。",
-   "url": "https://www.cls.cn/detail/2528164",
-   "source": "cls",
-   "time": "2026-11-08T03:34:00+08:00"
-  },
-  {
-   "title": "以色列总统决定授权埃森科特组建新政府",
-   "summary": "【以色列总统决定授权埃森科特组建新政府】财联社11月8日电，以色列总统府7日发表声明说，以总统赫尔佐格决定授权正直党领导人、以军前总参谋长加迪·埃森科特组建新一届政府。",
-   "url": "https://www.cls.cn/detail/2528165",
-   "source": "cls",
-   "time": "2026-11-08T03:56:33+08:00"
+   "time": "2026-11-08T15:09:00+08:00"
   }
  ],
  "meta": {
