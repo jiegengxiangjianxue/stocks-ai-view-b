@@ -1,8 +1,8 @@
 {
- "ts": "2026-11-12T07:21:17+08:00",
+ "ts": "2026-11-12T16:10:18+08:00",
  "engine": "news_transmission v1 (消息传导: 坏消息利好谁)",
  "n_input": 448,
- "n_transmissions": 3,
+ "n_transmissions": 6,
  "n_rules": 16,
  "rules": [
   {
@@ -81,7 +81,7 @@
   {
    "title": "出息了病毒吧吧主被官媒采访",
    "source": "贴吧热议",
-   "time": "2026-11-12T07:21:11+08:00",
+   "time": "2026-11-12T16:10:12+08:00",
    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369544&amp;topic_name=%E5%87%BA%E6%81%AF%E4%BA%86%E7%97%85%E6%AF%92%E5%90%A7%E5%90%A7%E4%B8%BB%E8%A2%AB%E5%AE%98%E5%AA%92%E9%87%87%E8%AE%BF",
    "transmission_id": "epidemic",
    "label": "疫情",
@@ -90,13 +90,21 @@
     {
      "sector": "医药",
      "stocks": [
-      "600538"
+      "301015",
+      "002086",
+      "002864"
      ]
     },
     {
      "sector": "医疗器械",
      "stocks": [
-      "688426"
+      "301234"
+     ]
+    },
+    {
+     "sector": "疫苗",
+     "stocks": [
+      "688298"
      ]
     }
    ],
@@ -105,13 +113,20 @@
     {
      "sector": "旅游",
      "stocks": [
-      "000888"
+      "000610"
      ]
     },
     {
      "sector": "航空",
      "stocks": [
-      "688685"
+      "600316",
+      "600004"
+     ]
+    },
+    {
+     "sector": "餐饮",
+     "stocks": [
+      "600754"
      ]
     }
    ],
@@ -125,10 +140,51 @@
    }
   },
   {
-   "title": "报道：万斯为推动结束战争，考虑与伊朗强硬派举行直接会谈",
-   "source": "wallstreetcn",
-   "time": "2026-11-12T03:29:08+08:00",
-   "url": "https://wallstreetcn.com/live/3198603",
+   "title": "全球市场新风暴眼？加息预期全面引爆：美元攀上19个月高位！",
+   "source": "财联社热门",
+   "time": "2026-11-12T15:47:30+08:00",
+   "url": "https://www.cls.cn/detail/2532131",
+   "transmission_id": "rate_hike",
+   "label": "加息/紧缩",
+   "direct_bear": [
+    {
+     "sector": "创新药",
+     "stocks": [
+      "301520"
+     ]
+    }
+   ],
+   "direct_bull": [],
+   "inverse_bull": [
+    {
+     "sector": "银行",
+     "stocks": [
+      "601398",
+      "000001"
+     ]
+    },
+    {
+     "sector": "保险",
+     "stocks": [
+      "601318"
+     ]
+    }
+   ],
+   "inverse_bear": [],
+   "hedge": [],
+   "flow_evidence": {
+    "status": "insufficient",
+    "source": null,
+    "trade_date": null,
+    "event_date": "2026-11-12",
+    "matched_codes": []
+   }
+  },
+  {
+   "title": "美国财长贝森特，从千万美元首都豪宅搬入军事基地",
+   "source": "财联社热门",
+   "time": "2026-11-12T15:47:30+08:00",
+   "url": "https://www.cls.cn/detail/2532032",
    "transmission_id": "geopolitics",
    "label": "地缘冲突",
    "direct_bear": [],
@@ -136,7 +192,7 @@
     {
      "sector": "军工",
      "stocks": [
-      "301302"
+      "688552"
      ]
     }
    ],
@@ -145,13 +201,14 @@
     {
      "sector": "航空",
      "stocks": [
-      "688685"
+      "600316",
+      "600004"
      ]
     },
     {
      "sector": "旅游",
      "stocks": [
-      "000888"
+      "000610"
      ]
     }
    ],
@@ -165,23 +222,119 @@
    }
   },
   {
-   "title": "美加息预期强化，机构把脉金价走向",
-   "source": "华尔街见闻",
-   "time": "2026-11-12T07:10:04+08:00",
-   "url": "https://wallstreetcn.com/livenews/3198660",
-   "transmission_id": "rate_hike",
-   "label": "加息/紧缩",
+   "title": "以防长：看守政府发动军事行动无需征得反对派同意",
+   "source": "财联社电报",
+   "time": "2026-11-12T16:10:07+08:00",
+   "url": "https://www.cls.cn/detail/2532658",
+   "transmission_id": "geopolitics",
+   "label": "地缘冲突",
    "direct_bear": [],
-   "direct_bull": [],
-   "inverse_bull": [
+   "direct_bull": [
     {
-     "sector": "银行",
+     "sector": "军工",
      "stocks": [
-      "601328"
+      "688552"
      ]
     }
    ],
-   "inverse_bear": [],
+   "inverse_bull": [],
+   "inverse_bear": [
+    {
+     "sector": "航空",
+     "stocks": [
+      "600316",
+      "600004"
+     ]
+    },
+    {
+     "sector": "旅游",
+     "stocks": [
+      "000610"
+     ]
+    }
+   ],
+   "hedge": [],
+   "flow_evidence": {
+    "status": "insufficient",
+    "source": null,
+    "trade_date": null,
+    "event_date": "2026-11-12",
+    "matched_codes": []
+   }
+  },
+  {
+   "title": "勇士火箭爆发激烈冲突",
+   "source": "抖音热点",
+   "time": "2026-11-12T16:10:10+08:00",
+   "url": "https://www.douyin.com/hot/2742276",
+   "transmission_id": "geopolitics",
+   "label": "地缘冲突",
+   "direct_bear": [],
+   "direct_bull": [
+    {
+     "sector": "军工",
+     "stocks": [
+      "688552"
+     ]
+    }
+   ],
+   "inverse_bull": [],
+   "inverse_bear": [
+    {
+     "sector": "航空",
+     "stocks": [
+      "600316",
+      "600004"
+     ]
+    },
+    {
+     "sector": "旅游",
+     "stocks": [
+      "000610"
+     ]
+    }
+   ],
+   "hedge": [],
+   "flow_evidence": {
+    "status": "insufficient",
+    "source": null,
+    "trade_date": null,
+    "event_date": "2026-11-12",
+    "matched_codes": []
+   }
+  },
+  {
+   "title": "U20中青赛决赛生乱：球迷看台冲突，球童拿走水瓶遭围堵",
+   "source": "澎湃新闻",
+   "time": "2026-11-12T16:10:13+08:00",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458119",
+   "transmission_id": "geopolitics",
+   "label": "地缘冲突",
+   "direct_bear": [],
+   "direct_bull": [
+    {
+     "sector": "军工",
+     "stocks": [
+      "688552"
+     ]
+    }
+   ],
+   "inverse_bull": [],
+   "inverse_bear": [
+    {
+     "sector": "航空",
+     "stocks": [
+      "600316",
+      "600004"
+     ]
+    },
+    {
+     "sector": "旅游",
+     "stocks": [
+      "000610"
+     ]
+    }
+   ],
    "hedge": [],
    "flow_evidence": {
     "status": "insufficient",
