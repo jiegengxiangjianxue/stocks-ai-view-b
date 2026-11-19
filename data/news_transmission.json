@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T07:18:34+08:00",
+ "ts": "2026-11-19T16:37:31+08:00",
  "engine": "news_transmission v1 (消息传导: 坏消息利好谁)",
  "n_input": 461,
  "n_transmissions": 4,
@@ -79,42 +79,31 @@
  "caveat": "传导关系是规则先验, 非实证; 行为标签要求新闻与资金同交易日, 缺失不判定。Research reference only, not investment advice.",
  "transmissions": [
   {
-   "title": "在美国麻疹疫情蔓延之际，宾州确认第八例与麻疹相关的死亡病例",
-   "source": "华尔街见闻",
-   "time": "2026-11-19T06:50:05+08:00",
-   "url": "https://wallstreetcn.com/livenews/3202197",
-   "transmission_id": "epidemic",
-   "label": "疫情",
+   "title": "美联储纪要释放加息信号 戴利强调审慎紧缩的重要性",
+   "source": "财联社热门",
+   "time": "2026-11-19T16:37:17+08:00",
+   "url": "https://www.cls.cn/detail/2538408",
+   "transmission_id": "rate_hike",
+   "label": "加息/紧缩",
    "direct_bear": [],
-   "direct_bull": [
+   "direct_bull": [],
+   "inverse_bull": [
     {
-     "sector": "医药",
+     "sector": "银行",
      "stocks": [
-      "600998"
+      "601939",
+      "601166",
+      "002966"
      ]
     },
     {
-     "sector": "医疗器械",
+     "sector": "保险",
      "stocks": [
-      "002432"
+      "601318"
      ]
     }
    ],
-   "inverse_bull": [],
-   "inverse_bear": [
-    {
-     "sector": "航空",
-     "stocks": [
-      "600221"
-     ]
-    },
-    {
-     "sector": "餐饮",
-     "stocks": [
-      "000428"
-     ]
-    }
-   ],
+   "inverse_bear": [],
    "hedge": [],
    "flow_evidence": {
     "status": "insufficient",
@@ -125,10 +114,10 @@
    }
   },
   {
-   "title": "纳斯达克100指数涨幅收窄至0.2%，标普跌0.2%，道指跌540点、跌超1%。",
+   "title": "澳洲矿业股普跌，追随隔夜黄金、铜价格下跌的表现。\n\n澳大利亚悉尼上市的必和必拓一度跌4.4%，力拓跌3.3%，Sandf",
    "source": "wallstreetcn",
-   "time": "2026-11-19T03:09:47+08:00",
-   "url": "https://wallstreetcn.com/live/3202128",
+   "time": "2026-11-19T07:25:05+08:00",
+   "url": "https://wallstreetcn.com/live/3202233",
    "transmission_id": "market_broad_down",
    "label": "大盘普跌",
    "direct_bear": [],
@@ -137,9 +126,9 @@
     {
      "sector": "银行",
      "stocks": [
-      "601288",
-      "601998",
-      "002197"
+      "601939",
+      "601166",
+      "002966"
      ]
     }
    ],
@@ -148,9 +137,9 @@
     {
      "sector": "银行",
      "stocks": [
-      "601288",
-      "601998",
-      "002197"
+      "601939",
+      "601166",
+      "002966"
      ]
     }
    ],
@@ -164,31 +153,34 @@
    "note": "普跌时资金流向低估值防御; 逆势活跃的板块 (如 PCB/白酒) 是当日主线"
   },
   {
-   "title": "特朗普谈俄乌冲突：乌克兰正在输",
-   "source": "今日头条",
-   "time": "2026-11-19T07:03:02+08:00",
-   "url": "https://www.toutiao.com/trending/7709023114491101747/",
-   "transmission_id": "geopolitics",
-   "label": "地缘冲突",
-   "direct_bear": [],
-   "direct_bull": [
+   "title": "三星高管回应AI泡沫争议：新云厂商风险有限 AI投资源于真实需求",
+   "source": "财联社电报",
+   "time": "2026-11-19T16:37:18+08:00",
+   "url": "https://www.cls.cn/detail/2538992",
+   "transmission_id": "ai_down",
+   "label": "AI/算力下跌",
+   "direct_bear": [
     {
-     "sector": "军工",
+     "sector": "软件",
      "stocks": [
-      "688629"
+      "300311",
+      "301095"
      ]
     }
    ],
+   "direct_bull": [],
    "inverse_bull": [],
-   "inverse_bear": [
+   "inverse_bear": [],
+   "hedge": [
     {
-     "sector": "航空",
+     "sector": "银行",
      "stocks": [
-      "600221"
+      "601939",
+      "601166",
+      "002966"
      ]
     }
    ],
-   "hedge": [],
    "flow_evidence": {
     "status": "insufficient",
     "source": null,
@@ -198,27 +190,21 @@
    }
   },
   {
-   "title": "WTI 12月原油期货收跌2.75美元，跌幅3.20%，报83.26美元/桶。\n\n布伦特1月原油期货收跌1.19美元，跌",
+   "title": "委内瑞拉同美国签署协议恢复军事技术合作",
    "source": "wallstreetcn",
-   "time": "2026-11-19T03:30:49+08:00",
-   "url": "https://wallstreetcn.com/live/3202135",
-   "transmission_id": "oil_up",
-   "label": "油价上涨",
+   "time": "2026-11-19T07:40:52+08:00",
+   "url": "https://wallstreetcn.com/live/3202238",
+   "transmission_id": "geopolitics",
+   "label": "地缘冲突",
    "direct_bear": [],
-   "direct_bull": [
-    {
-     "sector": "油服工程",
-     "stocks": [
-      "600871"
-     ]
-    }
-   ],
+   "direct_bull": [],
    "inverse_bull": [],
    "inverse_bear": [
     {
-     "sector": "航空机场",
+     "sector": "航空",
      "stocks": [
-      "600221"
+      "603885",
+      "002625"
      ]
     }
    ],
